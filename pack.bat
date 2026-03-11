@@ -1,6 +1,6 @@
 @echo off
 REM 
-REM création des compendiums du module CSB Basic Instinct System
+REM création des compendiums du module CSB INS/MV
 REM
 REM le paquet fvtt doit être  installé https://github.com/foundryvtt/foundryvtt-cli
 REM

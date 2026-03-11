@@ -1,7 +1,6 @@
 @echo off
 REM 
-REM dépaquetage des compendiums du module Bitume Mk5
-REM
+REM dépaquetage des compendiums du module CSB INS/MV
 REM le paquet fvtt doit être  installé https://github.com/foundryvtt/foundryvtt-cli
 REM
 REM /!\ nécessite que l'instance de foundry soit fermée avant de lancer la commande
