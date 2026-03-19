@@ -1,0 +1,27 @@
+/**
+ * Feuille de style du module
+ * Les classes préfixées par 'insmv-'
+ */
+
+.insmv-cadre {
+  border: 1px solid var(--color-border-light-tertiary);
+  border-radius: 5px;
+}
+
+.insmv-jet {
+  padding: 2px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 150%;
+  border-radius: 5px;
+}
+.insmv-jet-bete {
+  background-color: PeachPuff !important;
+  color: DarkRed;
+  border: solid 1px DarkRed;
+}
+.insmv-jet-unique {
+  background-color: PaleTurquoise !important;
+  color: RoyalBlue;
+  border: solid 1px RoyalBlue;
+}

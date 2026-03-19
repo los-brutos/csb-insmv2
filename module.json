@@ -23,6 +23,9 @@
   "flags": {
     "canUpload": true
   },
+  "styles": [
+    "styles/csb-insmv.css"
+  ],
   "packs": [
     {
       "name": "actor-templates",
