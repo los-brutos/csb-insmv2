@@ -1,0 +1,180 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "42 - Objet magique",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Objet magique : Croix / Croissant",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.hXnW1BV8WWeoO8Vx",
+      "_id": "GGbrJmzb3QAjZ6eX",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9d9QPSOgKfDZt2Nn.GGbrJmzb3QAjZ6eX"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Objet magique : Sceptre",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.3feQeXeTi52qnnwF",
+      "_id": "EWBOJdDAcPilky4H",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9d9QPSOgKfDZt2Nn.EWBOJdDAcPilky4H"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Objet magique : Crâne",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.t2I1skmHxTQC2tI0",
+      "_id": "5j9JZIcU8vHZ5PS6",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9d9QPSOgKfDZt2Nn.5j9JZIcU8vHZ5PS6"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Objet magique : Pierre précieuse montée en bague",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.EqVnuj4zJ9ioSKEI",
+      "_id": "Iw55F1ZjmQokR8sz",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9d9QPSOgKfDZt2Nn.Iw55F1ZjmQokR8sz"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Objet magique : Dague de sacrifice",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.Gd7DuH2EIVvAS0Fl",
+      "_id": "sAhI6qY31cxGexHb",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9d9QPSOgKfDZt2Nn.sAhI6qY31cxGexHb"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Objet magique : Autre objet baroque",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.c8ILszJvwmv7C3F8",
+      "_id": "Cjj1tZCkvpe1GLdR",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9d9QPSOgKfDZt2Nn.Cjj1tZCkvpe1GLdR"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773875377721,
+    "modifiedTime": 1773875377721,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "9d9QPSOgKfDZt2Nn",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!9d9QPSOgKfDZt2Nn"
+}

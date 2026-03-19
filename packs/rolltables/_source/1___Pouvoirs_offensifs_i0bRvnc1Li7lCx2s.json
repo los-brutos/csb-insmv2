@@ -1,0 +1,179 @@
+{
+  "name": "1 - Pouvoirs offensifs",
+  "_id": "i0bRvnc1Li7lCx2s",
+  "img": "icons/svg/daze.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "11 - Attaque corporelle",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "RollTable.2CiA3GgFRp1URpwq",
+      "_id": "l1HNTRqZ0dLz9UeF",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!i0bRvnc1Li7lCx2s.l1HNTRqZ0dLz9UeF"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "12 - Attaque à distance",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "RollTable.2vaL89kbaHiKuh98",
+      "_id": "6L890jgABbbc62jf",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!i0bRvnc1Li7lCx2s.6L890jgABbbc62jf"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "13 - Attaque non létale",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "RollTable.u2pmrzbZsKY34Ika",
+      "_id": "HpvDlNFqmQlipMRJ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!i0bRvnc1Li7lCx2s.HpvDlNFqmQlipMRJ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "14 - Absorption",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "RollTable.KRCC0wcQaIAes0kC",
+      "_id": "ElxtEB68FBybWM6S",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!i0bRvnc1Li7lCx2s.ElxtEB68FBybWM6S"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "15 - Bénédiction",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "RollTable.gMtTrasVKxbkHy3w",
+      "_id": "4BGY3Mh2ZQdCM0Ol",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!i0bRvnc1Li7lCx2s.4BGY3Mh2ZQdCM0Ol"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "16 - Contact",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "RollTable.Zc9Jxqs633RatrOY",
+      "_id": "oJs5kS6sv8n7D6Fp",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!i0bRvnc1Li7lCx2s.oJs5kS6sv8n7D6Fp"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "B9n02JSCycr74XJJ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773449265888,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!i0bRvnc1Li7lCx2s"
+}

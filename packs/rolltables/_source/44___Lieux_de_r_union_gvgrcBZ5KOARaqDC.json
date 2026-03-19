@@ -1,0 +1,179 @@
+{
+  "name": "44 - Lieux de réunion",
+  "img": "icons/svg/daze.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Lieu de réunion : Monument historique",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.07OOleJR8tSM68Nl",
+      "_id": "zJyco4ocgziptczz",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gvgrcBZ5KOARaqDC.zJyco4ocgziptczz"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Lieu de réunion : Ambassade",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.AgpnwY48wVcSoSgH",
+      "_id": "IQJ59Kd8VRu5ZqZa",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gvgrcBZ5KOARaqDC.IQJ59Kd8VRu5ZqZa"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Lieu de réunion : Parc",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.ehWR5nz2vt5aAbHI",
+      "_id": "VlJTvQy96sLGtmkJ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gvgrcBZ5KOARaqDC.VlJTvQy96sLGtmkJ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Lieu de réunion : Musée",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.BJeBmPWuSYWT5HRJ",
+      "_id": "bCzpayS4Dda7EYj7",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gvgrcBZ5KOARaqDC.bCzpayS4Dda7EYj7"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Lieu de réunion : Petite maison",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.eAmYtm11BlI8w63S",
+      "_id": "BExzHyIXmXmFERYM",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gvgrcBZ5KOARaqDC.BExzHyIXmXmFERYM"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Lieu de réunion : Salle de concert",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.S8Cut7a5QDS9a6cn",
+      "_id": "GJX0Igt5JDZhbKZT",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gvgrcBZ5KOARaqDC.GJX0Igt5JDZhbKZT"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "B9n02JSCycr74XJJ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773449265888,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "gvgrcBZ5KOARaqDC",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!gvgrcBZ5KOARaqDC"
+}

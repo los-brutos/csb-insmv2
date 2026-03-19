@@ -1,0 +1,179 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "25 - Défense temporaire",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Champ de force",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.PEjysV73ue5lhe2j",
+      "_id": "ZUb61ijjWsFib3Sa",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!EBHf3f9mJkLKgCt3.ZUb61ijjWsFib3Sa"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Glace (défense)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.IX3Fxfbxmczn92JN",
+      "_id": "9iMFWCs3Jdo3VVq9",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!EBHf3f9mJkLKgCt3.9iMFWCs3Jdo3VVq9"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Feu (défense)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.zoJI8Ah2RG63FaUi",
+      "_id": "xrA1NqGsN7f0es4N",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!EBHf3f9mJkLKgCt3.xrA1NqGsN7f0es4N"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Champ magnétique",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.0RnPK0Jg9OhHAtWX",
+      "_id": "WnXksytqJSzS9KAI",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!EBHf3f9mJkLKgCt3.WnXksytqJSzS9KAI"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Rebond (à préciser)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.4YtCpgQUSPTjrMUg",
+      "_id": "tXRNeoaUzvKTxVvP",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!EBHf3f9mJkLKgCt3.tXRNeoaUzvKTxVvP"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Conversion",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.R1ygsBOdFofKj1ZJ",
+      "_id": "NaYyaFS9dZ3L96EP",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!EBHf3f9mJkLKgCt3.NaYyaFS9dZ3L96EP"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773705437102,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "EBHf3f9mJkLKgCt3",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!EBHf3f9mJkLKgCt3"
+}

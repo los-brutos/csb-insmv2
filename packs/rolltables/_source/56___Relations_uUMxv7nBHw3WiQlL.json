@@ -1,0 +1,179 @@
+{
+  "name": "56 - Relations",
+  "img": "icons/svg/daze.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Relations : commissaire de police (1)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.lAbtWOR2k8sW85dI",
+      "_id": "9lyCCKQsVCUnUBqK",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uUMxv7nBHw3WiQlL.9lyCCKQsVCUnUBqK"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Relations : procureur (1)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.9cVeCArvS2YY7buT",
+      "_id": "2gfJz7mgphzc6AQs",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uUMxv7nBHw3WiQlL.2gfJz7mgphzc6AQs"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Relations : politicien(1)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.vcBNaF1L1d9tOq1D",
+      "_id": "tsn6S8RnfF51rliY",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uUMxv7nBHw3WiQlL.tsn6S8RnfF51rliY"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Relations : journaliste (1)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.981JdtFkCEpNmp1x",
+      "_id": "hCHBwY0P745iRk96",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uUMxv7nBHw3WiQlL.hCHBwY0P745iRk96"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Relations : militaire (1)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.45IYInSvn6va2QAk",
+      "_id": "FPmg1Cdjn6RMHZr7",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uUMxv7nBHw3WiQlL.FPmg1Cdjn6RMHZr7"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Relations : présentateur TV (1)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.skdbGby1fsG4wcuy",
+      "_id": "fPmJ66jb9GzSRsiY",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uUMxv7nBHw3WiQlL.fPmJ66jb9GzSRsiY"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "B9n02JSCycr74XJJ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773449265888,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "uUMxv7nBHw3WiQlL",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!uUMxv7nBHw3WiQlL"
+}

@@ -1,0 +1,179 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "33 - Déplacement",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Téléportation",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.7Zbx9mblCOP3nnjH",
+      "_id": "rJ2G8VoDqrr6WoUt",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ykPFCSUYTISXPAzX.rJ2G8VoDqrr6WoUt"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Vol",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.wqpusKh57l1ua3iL",
+      "_id": "6Or1vleerjSJxit9",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ykPFCSUYTISXPAzX.6Or1vleerjSJxit9"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Bond",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.psiZI3Lzzu9FN08T",
+      "_id": "2h5u04CD3o2XdM6T",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ykPFCSUYTISXPAzX.2h5u04CD3o2XdM6T"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Vitesse",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.lOztTBZSDIjUN0Am",
+      "_id": "jyFwjBr9WXnyXg3U",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ykPFCSUYTISXPAzX.jyFwjBr9WXnyXg3U"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Forme gazeuse (déplacement)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.cDQFIAuRvOvs9t57",
+      "_id": "D1gJemsABlFAgeQk",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ykPFCSUYTISXPAzX.D1gJemsABlFAgeQk"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Déplacement temporel",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.NznKIsGUAedNBECi",
+      "_id": "OCBxtFVLQc0e9TvK",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ykPFCSUYTISXPAzX.OCBxtFVLQc0e9TvK"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773705437102,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "ykPFCSUYTISXPAzX",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!ykPFCSUYTISXPAzX"
+}

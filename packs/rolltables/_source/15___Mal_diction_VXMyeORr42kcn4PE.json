@@ -1,0 +1,179 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "15 - Malédiction",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Maladie (malédiction)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.VCBisbWMQBYAG5gg",
+      "_id": "WSRDx9VJJV3wPBdo",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VXMyeORr42kcn4PE.WSRDx9VJJV3wPBdo"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Stérilité (malédiction)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.OcBVIDPnVqnfX6TV",
+      "_id": "d863rPJU0wvuiDOj",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VXMyeORr42kcn4PE.d863rPJU0wvuiDOj"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Vieillissement (malédiction)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.Jibcu9ytTfqbYzqp",
+      "_id": "Ihq0RGxzUXmGW3a6",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VXMyeORr42kcn4PE.Ihq0RGxzUXmGW3a6"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Folie (malédiction)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.PZS9oOfJqPx4LG8O",
+      "_id": "KqleGReOOEk2sXaH",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VXMyeORr42kcn4PE.KqleGReOOEk2sXaH"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Phobie (malédiction)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.0Y7iZqoiCdQxbqiC",
+      "_id": "HBkjJCWUDM1nOK9i",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VXMyeORr42kcn4PE.HBkjJCWUDM1nOK9i"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Laideur (malédiction)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.uH5BTcztl60ojJ1C",
+      "_id": "THcfO2mlrFFELsD3",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VXMyeORr42kcn4PE.THcfO2mlrFFELsD3"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773705437102,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "VXMyeORr42kcn4PE",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!VXMyeORr42kcn4PE"
+}

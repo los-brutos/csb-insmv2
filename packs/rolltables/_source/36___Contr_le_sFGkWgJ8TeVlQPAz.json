@@ -1,0 +1,179 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "36 - Contrôle",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Contrôle des humains",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.YgIbslPhn4Bs4Umc",
+      "_id": "mMLWkWVjbwx9zClG",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sFGkWgJ8TeVlQPAz.mMLWkWVjbwx9zClG"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Contrôle des reptiles et des batraciens",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.8HdwC4ucYNpVtInD",
+      "_id": "bXgkATY173TSVGWu",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sFGkWgJ8TeVlQPAz.bXgkATY173TSVGWu"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Contrôle des oiseaux",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.yqGAJ9ZzuB08CINX",
+      "_id": "VkRt4daxWPuKJvn9",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sFGkWgJ8TeVlQPAz.VkRt4daxWPuKJvn9"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Contrôle des insectes et des arachnides",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.9H2KbUzKHGKxbu6M",
+      "_id": "F4bLt6gMpln4O6v0",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sFGkWgJ8TeVlQPAz.F4bLt6gMpln4O6v0"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Contrôle des mammifères et des marsupiaux",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.BQZsSO88VEc3xRU5",
+      "_id": "tPDwHAeQztkGgNPl",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sFGkWgJ8TeVlQPAz.tPDwHAeQztkGgNPl"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Contrôle des poissons et des mollusques",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.Enu23H69zp4RtGcX",
+      "_id": "jXLP8LwEmOA1d2eO",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sFGkWgJ8TeVlQPAz.jXLP8LwEmOA1d2eO"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773705437102,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "sFGkWgJ8TeVlQPAz",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!sFGkWgJ8TeVlQPAz"
+}

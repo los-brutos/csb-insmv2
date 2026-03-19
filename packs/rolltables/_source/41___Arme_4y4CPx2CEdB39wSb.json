@@ -1,0 +1,180 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "41 - Arme",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Arme de contact maudite (Arme magique)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.lO1Adpwtj1XKX1DQ",
+      "_id": "UgDIPE6kmsyihaDZ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4y4CPx2CEdB39wSb.UgDIPE6kmsyihaDZ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Arme à distance maudite (Arme magique)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.vpaYYKRysXFnLxz1",
+      "_id": "soA4fKJ8ysZOrdGY",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4y4CPx2CEdB39wSb.soA4fKJ8ysZOrdGY"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Arme de contact intelligente (Arme magique)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.GJHUAXeoUo1vB709",
+      "_id": "ZKeV1sif5MgesNMy",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4y4CPx2CEdB39wSb.ZKeV1sif5MgesNMy"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Arme à distance intelligente (Arme magique)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.BYD4cxg0g84G2dZ8",
+      "_id": "NLWEQor0AqdZp1VC",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4y4CPx2CEdB39wSb.NLWEQor0AqdZp1VC"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Arme de contact mobile (Arme magique)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.s8fOdcLUkOWvpmkN",
+      "_id": "bZw9iSAh4759mgFY",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4y4CPx2CEdB39wSb.bZw9iSAh4759mgFY"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Arme à distance mobile (Arme magique)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.X1mYeuy3BnZfm10N",
+      "_id": "1K0YqgVPIh0WfqMo",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4y4CPx2CEdB39wSb.1K0YqgVPIh0WfqMo"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773875377721,
+    "modifiedTime": 1773875377721,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "4y4CPx2CEdB39wSb",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!4y4CPx2CEdB39wSb"
+}

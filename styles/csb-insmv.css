@@ -4,7 +4,7 @@
  */
 
 .insmv-cadre {
-  border: 1px solid var(--color-border-light-tertiary);
+  border: 1px solid var(--color-border);
   border-radius: 5px;
 }
 

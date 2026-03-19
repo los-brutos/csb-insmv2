@@ -1,0 +1,905 @@
+{
+  "folder": null,
+  "name": "1 - Limitation des Démons",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Etat cadavérique",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.ncYSk5N2xjrlfshH",
+      "_id": "gOyf4q6l1oGkEtXS",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.gOyf4q6l1oGkEtXS"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Membre coupé",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.Tnep8P1m9912dC2c",
+      "_id": "wjCCN4Tm51AhSNiE",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.wjCCN4Tm51AhSNiE"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Cicatrice",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.1SUg39KpAGHdcEWp",
+      "_id": "g930am3J3qde43Po",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.g930am3J3qde43Po"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Dandy",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.E35mAgFu9cZ0AKXa",
+      "_id": "UhC9hdqSX5s9jwOp",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.UhC9hdqSX5s9jwOp"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Ancienne mode",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.JZxsuNlP1ZaeIXaZ",
+      "_id": "yqs7ZeWd3VRuhDOD",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.yqs7ZeWd3VRuhDOD"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Tic",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.UJj6Yfr3qIlVoOjX",
+      "_id": "cKSUoofBi34QNmEL",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.cKSUoofBi34QNmEL"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "name": "Odeur suspecte",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.Zt5DE6NSSYn928kt",
+      "_id": "YkLh7iV2Mbe4lguM",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.YkLh7iV2Mbe4lguM"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "name": "Couleur de la peau",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.PoHZH1VOHchkvrVJ",
+      "_id": "jOY0wj22ffqeXHGn",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.jOY0wj22ffqeXHGn"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "name": "Cornes",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.Olaf9C090IWcMPMu",
+      "_id": "SNTLslVGDmbbt9Zp",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.SNTLslVGDmbbt9Zp"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "name": "Couleur des yeux",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.mpTTdDa8s3u0aEBd",
+      "_id": "0eOolCChZcWxZgz5",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.0eOolCChZcWxZgz5"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "name": "Ailes",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.nZBt8RNhMOvRIENO",
+      "_id": "Em0g7Cmd8wGldoAT",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.Em0g7Cmd8wGldoAT"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "name": "Queue",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.DmgsSJ7pArz3wsVj",
+      "_id": "en7Zf8zJoEWeLyb8",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.en7Zf8zJoEWeLyb8"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "name": "Paranoïa",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.hMZcOBTIfL6oUuG1",
+      "_id": "HrQSaUH2y1sUIkmB",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.HrQSaUH2y1sUIkmB"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "name": "Pyromane",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.04sh5k7WpZudVPQe",
+      "_id": "bm1qj3ayreUJCJIm",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.bm1qj3ayreUJCJIm"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "name": "Mégalomanie",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.iiUisVJp5jHlRRPS",
+      "_id": "xF4fA5iuQXF1Gmtq",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.xF4fA5iuQXF1Gmtq"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "name": "Monomaniaque",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.vFEkLq3dFxsOVsNq",
+      "_id": "l6J0EX9uT3UHuzDv",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.l6J0EX9uT3UHuzDv"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "name": "Tueur psychopathe",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.REqgapcd8wuYUbot",
+      "_id": "AZeHD7kdnylwieVX",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.AZeHD7kdnylwieVX"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "name": "Kleptomanie",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.usfbLwrI5BEVROGr",
+      "_id": "Xrvc6JR2ukGWhsQk",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.Xrvc6JR2ukGWhsQk"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "name": "Phobie des croix",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.fjv7B4VQ9JZkAYfN",
+      "_id": "YOQVM5HvvVWfaYhC",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.YOQVM5HvvVWfaYhC"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "name": "Phobie des enfants",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.1I23L8AmJwFOZnfg",
+      "_id": "JxhnGSMkrZ9ocK7t",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.JxhnGSMkrZ9ocK7t"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "name": "Phobie des armes à feu",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.K9y14VxcCcPWqZ1l",
+      "_id": "l3UjTBnCTumpQDbT",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.l3UjTBnCTumpQDbT"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "name": "Phobie de la lumière",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.CqDUMA6HLJrDb79r",
+      "_id": "R0PtR29JNoKpe3b0",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.R0PtR29JNoKpe3b0"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "name": "Agoraphobie",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.lwSKmz8AxhIZevt8",
+      "_id": "SXSCFUn7fyUfSnnV",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.SXSCFUn7fyUfSnnV"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "name": "Phobie de la technologie",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.xKwqQdlDyvIZKWbr",
+      "_id": "vqAXjCTD4cESqdPZ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.vqAXjCTD4cESqdPZ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "name": "Besoin de sang",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.xVeudjTPIRwfh1a6",
+      "_id": "GzkLEmzVJk2AswSx",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.GzkLEmzVJk2AswSx"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "name": "Besoin de sexe",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.sOS1b70FaNTzShFq",
+      "_id": "bY7uGakUKPrwso9t",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.bY7uGakUKPrwso9t"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "name": "Besoin de douleur",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.VI4UexbDDrbyNFo0",
+      "_id": "8112t1jrt5rjNO3c",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.8112t1jrt5rjNO3c"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "name": "Besoin de violence",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.ajFyRjKLGPsr64TI",
+      "_id": "7ogW1tvCs8umStom",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.7ogW1tvCs8umStom"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "name": "Besoin de jeunesse",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.x1ctMfqCHxcrEKqk",
+      "_id": "IlEHJRtM4KxbYsik",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.IlEHJRtM4KxbYsik"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "name": "Besoin de perversion",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.2AOVpw0aTpYNAEOu",
+      "_id": "9lHHyLUMFSb27AY8",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.9lHHyLUMFSb27AY8"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "name": "Loyauté",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.axNrqV5xf31oTHke",
+      "_id": "hWEH0HndiHF2JS9O",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.hWEH0HndiHF2JS9O"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "name": "Gentillesse",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.gvMRY719vmTsE77m",
+      "_id": "Xu781RqC5dQ2vJ2A",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.Xu781RqC5dQ2vJ2A"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "name": "Pitié",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.1CVvQ6q7mKQvBCBx",
+      "_id": "HdP6IKDL2MqEQnte",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.HdP6IKDL2MqEQnte"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "name": "Timidité",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.DAi2eCbIO0Hpw9wp",
+      "_id": "ZBJnmBqBc92MgBvz",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.ZBJnmBqBc92MgBvz"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "name": "Naïveté",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.ONSrh3aM8X8aovcm",
+      "_id": "APj0jj5kouTVfhge",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D9uuSQfcHCTesQkf.APj0jj5kouTVfhge"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773875377721,
+    "modifiedTime": 1773875377721,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "D9uuSQfcHCTesQkf",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!D9uuSQfcHCTesQkf"
+}

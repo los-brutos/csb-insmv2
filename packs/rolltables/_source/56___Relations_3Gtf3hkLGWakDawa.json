@@ -1,0 +1,180 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "56 - Relations",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Relation avec un Démon de même Grade (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.rYp3pKHBYWfcgO6b",
+      "_id": "en9ZmmOvMEBHuerD",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3Gtf3hkLGWakDawa.en9ZmmOvMEBHuerD"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Relation avec un Prince-Démon",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.5P7odI0g2gmRcAW5",
+      "_id": "7DRfZT2TsjPOaLeZ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3Gtf3hkLGWakDawa.7DRfZT2TsjPOaLeZ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Relation avec un politicien",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.vOGSTbMMuDRydm4z",
+      "_id": "4Djrey2UejM1lYlt",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3Gtf3hkLGWakDawa.4Djrey2UejM1lYlt"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Relation avec un mafioso",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.gQLCHUz15yNQhx68",
+      "_id": "9pwGlrdBL94ayAKi",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3Gtf3hkLGWakDawa.9pwGlrdBL94ayAKi"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Relation avec un avocat",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.CeP5f5vxfvDUsbRf",
+      "_id": "Sjn1ClF6B3YSELT9",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3Gtf3hkLGWakDawa.Sjn1ClF6B3YSELT9"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Relation avec un hacker",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.MsNOhlf6J2fPrKrd",
+      "_id": "bwlIpxXwKwtagHLt",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3Gtf3hkLGWakDawa.bwlIpxXwKwtagHLt"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773875377721,
+    "modifiedTime": 1773875377721,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "3Gtf3hkLGWakDawa",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!3Gtf3hkLGWakDawa"
+}

@@ -1,0 +1,179 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "2 - Pouvoir défensif",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "21 - Défense permanente",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "RollTable.1p26CismNPeWhCCc",
+      "_id": "2dnroze0e5apKQyt",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!iq9RFKP4ZFGPukgG.2dnroze0e5apKQyt"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "22 - Défense mentale",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "RollTable.FBKTDG5RiF6lMCLx",
+      "_id": "MPo1Qdnl18s18VBy",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!iq9RFKP4ZFGPukgG.MPo1Qdnl18s18VBy"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "23 - Couverture",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "RollTable.V4jecBXzrNKm1inE",
+      "_id": "9qXTH99m9vmYaQWa",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!iq9RFKP4ZFGPukgG.9qXTH99m9vmYaQWa"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "24 - Augmentation temporaire des caractéristiques",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "RollTable.EutYvnfYAqRoPLrp",
+      "_id": "RNLgglAco0apJsJQ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!iq9RFKP4ZFGPukgG.RNLgglAco0apJsJQ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "25 - Défense temporaire",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "RollTable.EBHf3f9mJkLKgCt3",
+      "_id": "6pGA52UJgia6u1ik",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!iq9RFKP4ZFGPukgG.6pGA52UJgia6u1ik"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "26 - Camouflage",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "RollTable.nggVQ6uGneN1NFDP",
+      "_id": "uqLosOOOYj4rlmZ8",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!iq9RFKP4ZFGPukgG.uqLosOOOYj4rlmZ8"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773705437102,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "iq9RFKP4ZFGPukgG",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!iq9RFKP4ZFGPukgG"
+}

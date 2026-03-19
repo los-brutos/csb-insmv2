@@ -1,0 +1,179 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "24 - Augmentation temporaire des caractéristiques",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Force (temporaire)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.h5qdUxKCsFy6dUVk",
+      "_id": "MDGJjuFzNbuDR8VS",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!EutYvnfYAqRoPLrp.MDGJjuFzNbuDR8VS"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Précision (temporaire)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.TKiMRNWvzmCG6gAd",
+      "_id": "N5wZpMRL9unVS0s8",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!EutYvnfYAqRoPLrp.N5wZpMRL9unVS0s8"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Agilité (temporaire)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.oBTymLlZo0oD8xmL",
+      "_id": "T0e8qERdW682gmTu",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!EutYvnfYAqRoPLrp.T0e8qERdW682gmTu"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Apparence (temporaire)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.gP3uN6JeCvoivEko",
+      "_id": "hmd3KjSt3A4pBAcq",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!EutYvnfYAqRoPLrp.hmd3KjSt3A4pBAcq"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Volonté (temporaire)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.hL240XMUMqFxVSi1",
+      "_id": "eFg27iT6UrQ3sTpz",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!EutYvnfYAqRoPLrp.eFg27iT6UrQ3sTpz"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Perception (temporaire)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.o1EaChCCazVf3oiJ",
+      "_id": "RNnalIxrFauDhNND",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!EutYvnfYAqRoPLrp.RNnalIxrFauDhNND"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773705437102,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "EutYvnfYAqRoPLrp",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!EutYvnfYAqRoPLrp"
+}

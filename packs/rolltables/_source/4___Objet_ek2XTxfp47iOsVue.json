@@ -1,0 +1,180 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "4 - Objet",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "41 - Arme",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "RollTable.4y4CPx2CEdB39wSb",
+      "_id": "4QXD5G16Ze2j2FZi",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ek2XTxfp47iOsVue.4QXD5G16Ze2j2FZi"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "42 - Objet magique",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "RollTable.9d9QPSOgKfDZt2Nn",
+      "_id": "kgqql1DyTKS4Tjwt",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ek2XTxfp47iOsVue.kgqql1DyTKS4Tjwt"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "43 - Locaux",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "RollTable.D09E25ommJ9NLB6b",
+      "_id": "fm9Fg72ddCF5Cv7l",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ek2XTxfp47iOsVue.fm9Fg72ddCF5Cv7l"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "44 - Planque",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "RollTable.bxt9fJFcXekb28Hz",
+      "_id": "50jv1zzWTe4jOkAm",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ek2XTxfp47iOsVue.50jv1zzWTe4jOkAm"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "45 - Signe extérieur de richesse",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "RollTable.wpHYX8A29A67MqeP",
+      "_id": "9HSWvVRmKgbRs87T",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ek2XTxfp47iOsVue.9HSWvVRmKgbRs87T"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "46 - Etablissement",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "RollTable.ekEezzyaC83tOyBz",
+      "_id": "riCuSh0JkQ2UmF4Q",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ek2XTxfp47iOsVue.riCuSh0JkQ2UmF4Q"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773875377721,
+    "modifiedTime": 1773875377721,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "ek2XTxfp47iOsVue",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!ek2XTxfp47iOsVue"
+}

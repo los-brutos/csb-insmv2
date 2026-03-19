@@ -1,0 +1,179 @@
+{
+  "name": "51 - Serviteurs de Dieu",
+  "img": "icons/svg/daze.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Serviteur de Dieu, Investigateur (1)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.gZlJyBohXtBYPllo",
+      "_id": "nK2jAKLh4OahxcNr",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!q1HHgzNN8lbpbAnr.nK2jAKLh4OahxcNr"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Serviteur de Dieu, Escouade anti-morts-vivants (5)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.IZdfl4KNAX4ZUOs2",
+      "_id": "byo03YCesZ20Fxx0",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!q1HHgzNN8lbpbAnr.byo03YCesZ20Fxx0"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Serviteur de Dieu, 2 escouades anti-morts-vivants (2x5)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.PiMHOR2vvuQZRywV",
+      "_id": "JaREOEReAvd0PjIC",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!q1HHgzNN8lbpbAnr.JaREOEReAvd0PjIC"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Serviteur de Dieu, Escouade anti-familiers (5)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.FhkHlXoiS6YuOkdF",
+      "_id": "6MTPZND7WiDkhLe2",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!q1HHgzNN8lbpbAnr.6MTPZND7WiDkhLe2"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Serviteur de Dieu, 2 escouades anti-familiers (2x5)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.HvtDasSd7smdFsBr",
+      "_id": "xnMIhg0CHmVK9n52",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!q1HHgzNN8lbpbAnr.xnMIhg0CHmVK9n52"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Serviteur de Dieu, Escouade d'élite multirôle (5)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.zBugb76X8XVgrwzn",
+      "_id": "WpnhA1QjaHyrzuQP",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!q1HHgzNN8lbpbAnr.WpnhA1QjaHyrzuQP"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "B9n02JSCycr74XJJ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773449265888,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "q1HHgzNN8lbpbAnr",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!q1HHgzNN8lbpbAnr"
+}

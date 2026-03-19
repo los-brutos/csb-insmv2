@@ -1,0 +1,179 @@
+{
+  "name": "15 - Bénédiction",
+  "img": "icons/svg/daze.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Guérison de maladies (bénédiction)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.oLIsq6bIug3JtLKe",
+      "_id": "YGgN6oOlPYEtz0aK",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gMtTrasVKxbkHy3w.YGgN6oOlPYEtz0aK"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Fertilité (bénédiction)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.MN7y9nPK1stRcrZP",
+      "_id": "YRRDR9NDnW2ES7jU",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gMtTrasVKxbkHy3w.YRRDR9NDnW2ES7jU"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Rajeunissement (bénédiction)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.1WmW87xFF2UA22wU",
+      "_id": "Kg6yF25z7ucIINjH",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gMtTrasVKxbkHy3w.Kg6yF25z7ucIINjH"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Guérison de folies (bénédiction)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.b71LHdWM1zCGJXI4",
+      "_id": "ahNWZSLyIeruweAk",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gMtTrasVKxbkHy3w.ahNWZSLyIeruweAk"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Guérison de phobies (bénédiction)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.NzePfRCB1AtSs5bu",
+      "_id": "jIvKdrVO0VzUniZJ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gMtTrasVKxbkHy3w.jIvKdrVO0VzUniZJ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Beauté (bénédiction)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.YhKrHentgWlLNZ8R",
+      "_id": "etRe82AnHcxEY2tn",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gMtTrasVKxbkHy3w.etRe82AnHcxEY2tn"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "B9n02JSCycr74XJJ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773449265888,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "gMtTrasVKxbkHy3w",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!gMtTrasVKxbkHy3w"
+}

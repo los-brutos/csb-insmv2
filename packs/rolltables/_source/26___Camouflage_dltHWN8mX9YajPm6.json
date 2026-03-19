@@ -1,0 +1,179 @@
+{
+  "name": "26 - Camouflage",
+  "img": "icons/svg/daze.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Invisibilité",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.NaEqq5gVbZqNXMRZ",
+      "_id": "mxtDQtlyq0xNi1sc",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dltHWN8mX9YajPm6.mxtDQtlyq0xNi1sc"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Caméléon",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.fImH1AAIIc5VwFEc",
+      "_id": "LMqen5MkCPPfBUcx",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dltHWN8mX9YajPm6.LMqen5MkCPPfBUcx"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Forme gazeuse (défense)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.7dfeJb0sUsoB7HZ1",
+      "_id": "Le4TTMmjWBbCkDAr",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dltHWN8mX9YajPm6.Le4TTMmjWBbCkDAr"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Electricité",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.3zlMKpVfgK1Poxa1",
+      "_id": "c7qnDEddnJat9Z5Y",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dltHWN8mX9YajPm6.c7qnDEddnJat9Z5Y"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Réduction",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.RCBPklITZhu1UMAs",
+      "_id": "7wfBSnoXXMqvmzyB",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dltHWN8mX9YajPm6.7wfBSnoXXMqvmzyB"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Polymorphe",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.ySkCF6FbHYdCPXWD",
+      "_id": "0I7rz0NjgQ62OYgP",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dltHWN8mX9YajPm6.0I7rz0NjgQ62OYgP"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "B9n02JSCycr74XJJ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773449265888,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "dltHWN8mX9YajPm6",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!dltHWN8mX9YajPm6"
+}

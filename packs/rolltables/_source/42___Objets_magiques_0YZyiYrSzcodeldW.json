@@ -1,0 +1,179 @@
+{
+  "name": "42 - Objets magiques",
+  "img": "icons/svg/daze.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Objet magique : Croix / Croissant",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.XcI81CtnhfbC0lKq",
+      "_id": "2hzWK8hDsqvVHmiZ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!0YZyiYrSzcodeldW.2hzWK8hDsqvVHmiZ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Objet magique : Bracelet",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.ZCmO6IYZrQmiKkYF",
+      "_id": "THw7SIDWprTzlPfY",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!0YZyiYrSzcodeldW.THw7SIDWprTzlPfY"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Objet magique : Rameau / Lampe",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.d4GMQJtuLB7Lhtpe",
+      "_id": "0e9r3Htqoj0Hyy21",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!0YZyiYrSzcodeldW.0e9r3Htqoj0Hyy21"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Objet magique : Perle",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.KpQWNm9tramzO22t",
+      "_id": "zJqRXLFB2bfdHFfc",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!0YZyiYrSzcodeldW.zJqRXLFB2bfdHFfc"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Objet magique : Diadème",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.HxSrh7MYoCg4badN",
+      "_id": "KVIVZf3gZcbO4LMf",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!0YZyiYrSzcodeldW.KVIVZf3gZcbO4LMf"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Objet magique : Anneau",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.lLxOrYTpNSdQktd4",
+      "_id": "TBwi8PMHOzHuAQTR",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!0YZyiYrSzcodeldW.TBwi8PMHOzHuAQTR"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "B9n02JSCycr74XJJ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773449265888,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "0YZyiYrSzcodeldW",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!0YZyiYrSzcodeldW"
+}

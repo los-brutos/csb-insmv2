@@ -1,0 +1,179 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "3 - Pouvoir utilitaire",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "31 - Détection",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "RollTable.jUzzXTLcZVbTFBbP",
+      "_id": "Xdc95kJwDtEKJdTF",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!A8cofwAGundKJhJ9.Xdc95kJwDtEKJdTF"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "32 - Communication",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "RollTable.7ENEumd4ayR2Lkbz",
+      "_id": "8JFoo6k6xuBGqsrV",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!A8cofwAGundKJhJ9.8JFoo6k6xuBGqsrV"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "33 - Déplacement",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "RollTable.ykPFCSUYTISXPAzX",
+      "_id": "a8uDOdNHC9ignZMr",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!A8cofwAGundKJhJ9.a8uDOdNHC9ignZMr"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "34 - Talent",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "RollTable.hRhs7Ji13sNclJKV",
+      "_id": "QI5tuwc266OAc6ww",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!A8cofwAGundKJhJ9.QI5tuwc266OAc6ww"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "35 - Augmentation permanente des caractéristiques",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "RollTable.NHAAal8qMoO1iH7m",
+      "_id": "oU0RdQJP97TVEkVW",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!A8cofwAGundKJhJ9.oU0RdQJP97TVEkVW"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "36 - Contrôle",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "RollTable.sFGkWgJ8TeVlQPAz",
+      "_id": "q2wSvAcxGb79j1X0",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!A8cofwAGundKJhJ9.q2wSvAcxGb79j1X0"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773705437102,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "A8cofwAGundKJhJ9",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!A8cofwAGundKJhJ9"
+}

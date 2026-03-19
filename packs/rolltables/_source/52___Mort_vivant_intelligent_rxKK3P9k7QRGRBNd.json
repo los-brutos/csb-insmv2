@@ -1,0 +1,180 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "52 - Mort-vivant intelligent",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Mort-vivant, Vampire (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.u6C7u6oJsagg72ya",
+      "_id": "lIjHKlBc4lutiA5A",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!rxKK3P9k7QRGRBNd.lIjHKlBc4lutiA5A"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Mort-vivant, Momie (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.hlCdhwbKwrmxtKPN",
+      "_id": "O6nHTx4sU5ga7Pmb",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!rxKK3P9k7QRGRBNd.O6nHTx4sU5ga7Pmb"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Mort-vivant, Fantôme (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.taHTDpeMTNXevPb3",
+      "_id": "8DUkv5ISMp4q1aYE",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!rxKK3P9k7QRGRBNd.8DUkv5ISMp4q1aYE"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Mort-vivant, Esprit frappeur (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.XccQrdnwGX3uyoZZ",
+      "_id": "sG9HPqDC2LrbQ92R",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!rxKK3P9k7QRGRBNd.sG9HPqDC2LrbQ92R"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Démon mineur, Pseudo-Démon (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.paS0tMViUOttTnSj",
+      "_id": "WORpS6AN6Wz6YiMC",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!rxKK3P9k7QRGRBNd.WORpS6AN6Wz6YiMC"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Mort-vivant, Animal (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.JjbC2bSYGxC72xyC",
+      "_id": "CM5l7uJhDks8nQPw",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!rxKK3P9k7QRGRBNd.CM5l7uJhDks8nQPw"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773875377721,
+    "modifiedTime": 1773875377721,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "rxKK3P9k7QRGRBNd",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!rxKK3P9k7QRGRBNd"
+}

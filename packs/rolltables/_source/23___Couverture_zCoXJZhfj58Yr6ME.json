@@ -1,0 +1,179 @@
+{
+  "name": "23 - Couverture",
+  "img": "icons/svg/daze.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Couverture : Président d'organisation humanitaire",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.44C9kzzEeNikrnnC",
+      "_id": "9SaQf8C96y5Oe6j9",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zCoXJZhfj58Yr6ME.9SaQf8C96y5Oe6j9"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Couverture : Médecin",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.7eL7v9D8r2rBeccb",
+      "_id": "cLPv1edf1lsPYH3u",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zCoXJZhfj58Yr6ME.cLPv1edf1lsPYH3u"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Couverture : Prêtre",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.OMrxQbtd5quSMsuM",
+      "_id": "6HkudqPTjvQFF0kW",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zCoXJZhfj58Yr6ME.6HkudqPTjvQFF0kW"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Couverture : Vedette de cinéma",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.j8RIsOWiplWz07Re",
+      "_id": "2Utc2w3fuKHxrcYk",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zCoXJZhfj58Yr6ME.2Utc2w3fuKHxrcYk"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Couverture : Scientifique",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.GmvoAwXPU8PnZM6c",
+      "_id": "1NzDnsi4oIp2LFl7",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zCoXJZhfj58Yr6ME.1NzDnsi4oIp2LFl7"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Couverture : Sportif professionnel",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.NQmpnc3FrZCPbW7E",
+      "_id": "YeFxHDJfLcuP5EXR",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zCoXJZhfj58Yr6ME.YeFxHDJfLcuP5EXR"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "B9n02JSCycr74XJJ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773449265888,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "zCoXJZhfj58Yr6ME",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!zCoXJZhfj58Yr6ME"
+}

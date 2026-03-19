@@ -1,0 +1,23 @@
+{
+  "type": "RollTable",
+  "folder": null,
+  "name": "Pouvoirs",
+  "color": null,
+  "sorting": "a",
+  "_id": "Q3dgzH1V2RU1PaeI",
+  "description": "",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773449265853,
+    "modifiedTime": 1773875377433,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "_key": "!folders!Q3dgzH1V2RU1PaeI"
+}

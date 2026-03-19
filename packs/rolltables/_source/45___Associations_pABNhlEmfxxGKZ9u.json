@@ -1,0 +1,179 @@
+{
+  "name": "45 - Associations",
+  "img": "icons/svg/daze.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Association : Greenpeace/OLP",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.dtLS9ykkz0mnuVw8",
+      "_id": "OVkb0fboVGYes6bz",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pABNhlEmfxxGKZ9u.OVkb0fboVGYes6bz"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Association : Médecins du monde",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.5SL9NhOZ19vn9RYP",
+      "_id": "JmnLLeJUuL3zvG5W",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pABNhlEmfxxGKZ9u.JmnLLeJUuL3zvG5W"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Association : ONU",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.tSgBFakKGXQciotz",
+      "_id": "WyBH86sohD2BEcDz",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pABNhlEmfxxGKZ9u.WyBH86sohD2BEcDz"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Association : UNICEF",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.jYX6T6GAjpdBgngF",
+      "_id": "Vmqw6pUAEsC7a0hN",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pABNhlEmfxxGKZ9u.Vmqw6pUAEsC7a0hN"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Association : Ligue contre le cancer/Croissant rouge",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.TAUSJEmtr89xfUnz",
+      "_id": "cr74YqOQ378pMFqo",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pABNhlEmfxxGKZ9u.cr74YqOQ378pMFqo"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Association : Scouts/FIS",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.zVHgcmrRij8CliHr",
+      "_id": "gxobUorhp0owFbOH",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pABNhlEmfxxGKZ9u.gxobUorhp0owFbOH"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "B9n02JSCycr74XJJ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773449265888,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "pABNhlEmfxxGKZ9u",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!pABNhlEmfxxGKZ9u"
+}

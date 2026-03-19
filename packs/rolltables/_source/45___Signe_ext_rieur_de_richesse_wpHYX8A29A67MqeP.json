@@ -1,0 +1,180 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "45 - Signe extérieur de richesse",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Signe extérieur de richesse : Yacht",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.DCN1oNSyVZgbRoNP",
+      "_id": "FYzSPxa7h4IVohEN",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!wpHYX8A29A67MqeP.FYzSPxa7h4IVohEN"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Signe extérieur de richesse : Chevaux de course",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.NllKbr60HcNnNV8E",
+      "_id": "6Ib3cx7PvyKIhqKB",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!wpHYX8A29A67MqeP.6Ib3cx7PvyKIhqKB"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Signe extérieur de richesse : Voitures de course",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.eR8yJZqnc4adwlfT",
+      "_id": "V2u2AfG7IUjlhHAc",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!wpHYX8A29A67MqeP.V2u2AfG7IUjlhHAc"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Signe extérieur de richesse : Jet privé",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.OHIp0EMOPJXNqmt5",
+      "_id": "geRAgla45szdEd7P",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!wpHYX8A29A67MqeP.geRAgla45szdEd7P"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Signe extérieur de richesse : Île déserte",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.MZDJlpfzrcmLYr43",
+      "_id": "Vyks2SfML0q8to8H",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!wpHYX8A29A67MqeP.Vyks2SfML0q8to8H"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Signe extérieur de richesse : Résidence secondaire",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.sLn58PF2n9nxgr7n",
+      "_id": "3aZ4Y65DukzthjIB",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!wpHYX8A29A67MqeP.3aZ4Y65DukzthjIB"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773875377721,
+    "modifiedTime": 1773875377721,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "wpHYX8A29A67MqeP",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!wpHYX8A29A67MqeP"
+}

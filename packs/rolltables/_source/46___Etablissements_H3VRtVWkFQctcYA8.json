@@ -1,0 +1,179 @@
+{
+  "name": "46 - Etablissements",
+  "img": "icons/svg/daze.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Etablissement : Restaurant",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.2dR6Ymrywt1fRr1P",
+      "_id": "IiXiehMFVMHM8eMY",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H3VRtVWkFQctcYA8.IiXiehMFVMHM8eMY"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Etablissement : Hôtel",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.za4QjYHsPWPCkXPf",
+      "_id": "KojxqYp1BDcpDUAW",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H3VRtVWkFQctcYA8.KojxqYp1BDcpDUAW"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Etablissement : Université",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.EVXzd3tYKeMk3CMj",
+      "_id": "h0Uox1G9LRTcGRSt",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H3VRtVWkFQctcYA8.h0Uox1G9LRTcGRSt"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Etablissement : Casino / Camp d'entrainement",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.hl7zO2TObQm6B0pi",
+      "_id": "uy2AUc3k9EL1tRKE",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H3VRtVWkFQctcYA8.uy2AUc3k9EL1tRKE"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Etablissement : Station balnéaire",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.J7BDDzULAKxOfPnr",
+      "_id": "wbAX8J7KCC884ibT",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H3VRtVWkFQctcYA8.wbAX8J7KCC884ibT"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Etablissement : Boutique de luxe",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.tqvM9FoJAMSc4TgF",
+      "_id": "Uqfw3QU010jodSWM",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H3VRtVWkFQctcYA8.Uqfw3QU010jodSWM"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "B9n02JSCycr74XJJ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773449265888,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "H3VRtVWkFQctcYA8",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!H3VRtVWkFQctcYA8"
+}

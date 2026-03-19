@@ -1,0 +1,179 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "13 - Attaque non létale",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Charme (attaque)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.Y7elsxMscAa0ns7s",
+      "_id": "ONBHJ5Tr7gpxsagH",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zwUNvO7ZEQWGCsfS.ONBHJ5Tr7gpxsagH"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Sommeil (attaque)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.onUnCcgB2PGKGVYq",
+      "_id": "FWRWdBqg6w8CGEpn",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zwUNvO7ZEQWGCsfS.FWRWdBqg6w8CGEpn"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Faiblesse (attaque)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.5nUcrZg1CPRcDxN4",
+      "_id": "LenzTTCB0gh02EkN",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zwUNvO7ZEQWGCsfS.LenzTTCB0gh02EkN"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Peur (attaque)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.iSpgC69xuGUD4Jli",
+      "_id": "VxqOw2G2ZLwEMlRv",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zwUNvO7ZEQWGCsfS.VxqOw2G2ZLwEMlRv"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Paralysie (attaque)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.pypazHaCfzFz50kt",
+      "_id": "eHOn480NGVtDwM1Z",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zwUNvO7ZEQWGCsfS.eHOn480NGVtDwM1Z"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Coma",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.IFX5yiAzQf1Hjfy8",
+      "_id": "KfyZjZDBhNR3zDNF",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zwUNvO7ZEQWGCsfS.KfyZjZDBhNR3zDNF"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773705437102,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "zwUNvO7ZEQWGCsfS",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!zwUNvO7ZEQWGCsfS"
+}

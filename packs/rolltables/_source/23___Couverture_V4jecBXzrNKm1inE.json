@@ -1,0 +1,179 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "23 - Couverture",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Couverture : Chef d'entreprise",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.UgUvewhWzwO8Kr03",
+      "_id": "X8cKLX5YCMvXIygW",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!V4jecBXzrNKm1inE.X8cKLX5YCMvXIygW"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Couverture : Rock-star",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.GNX2JWXqGn2Cdu9x",
+      "_id": "tnWaZzmXZz3OhlLU",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!V4jecBXzrNKm1inE.tnWaZzmXZz3OhlLU"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Couverture : Présentateur TV",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.ExwsEkzsqBLX3LaY",
+      "_id": "aZYoUQMIBpkHLFgi",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!V4jecBXzrNKm1inE.aZYoUQMIBpkHLFgi"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Couverture : Vedette de cinéma",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.mDm6AiiTaSeGeCWW",
+      "_id": "veSR1iURNmtH6C3r",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!V4jecBXzrNKm1inE.veSR1iURNmtH6C3r"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Couverture : Politicien",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.qsIU0tLFqndSghEa",
+      "_id": "N3pNVoo53zLTRXvC",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!V4jecBXzrNKm1inE.N3pNVoo53zLTRXvC"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Couverture : Sportif professionnel",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.2MGDmxWzYjjukYAE",
+      "_id": "ATRgjcHO85zQHy55",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!V4jecBXzrNKm1inE.ATRgjcHO85zQHy55"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773705437102,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "V4jecBXzrNKm1inE",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!V4jecBXzrNKm1inE"
+}

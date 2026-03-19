@@ -1,0 +1,179 @@
+{
+  "name": "53 - Soldats de Dieu",
+  "img": "icons/svg/daze.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Soldat de Dieu, Petite section d'enquête (5)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.qCEPkz7gOzVt3cLs",
+      "_id": "ySasJxXvrCw3HYs9",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H8Hd2SgfymDoWTsm.ySasJxXvrCw3HYs9"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Soldat de Dieu, Section d'enquête (10)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.d2E5DssyuoB3qpwf",
+      "_id": "SjMaR89otHWxQrnb",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H8Hd2SgfymDoWTsm.SjMaR89otHWxQrnb"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Soldat de Dieu, Section de combat multirôle (10)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.a92KNp6pjaxjUkNQ",
+      "_id": "rQgIoxXVxzNpjAPS",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H8Hd2SgfymDoWTsm.rQgIoxXVxzNpjAPS"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Soldat de Dieu, 2 section de combat multirôle (2x10)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.yikPPSvHIjxy1Y1f",
+      "_id": "IWWpttRAAhEyXhzY",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H8Hd2SgfymDoWTsm.IWWpttRAAhEyXhzY"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Soldat de Dieu, Section lourde (5)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.xEoiuMHK0q2vfl6y",
+      "_id": "yfOcalmUXNr6CDQv",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H8Hd2SgfymDoWTsm.yfOcalmUXNr6CDQv"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Soldat de Dieu, Section lourde  + Véhicule de combat (5)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.aSl4qKXNYQ5qgDp4",
+      "_id": "uCSA6Bpj8cc28zdA",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H8Hd2SgfymDoWTsm.uCSA6Bpj8cc28zdA"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "B9n02JSCycr74XJJ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773449265888,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "H8Hd2SgfymDoWTsm",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!H8Hd2SgfymDoWTsm"
+}

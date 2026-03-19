@@ -1,0 +1,179 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "35 - Augmentation permanente des caractéristiques",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Force (permanent)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.FHEFmQMmWUzr0CiY",
+      "_id": "GiOrf9J6AF7tlnyl",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!NHAAal8qMoO1iH7m.GiOrf9J6AF7tlnyl"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Précision (permanent)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.J6EWaSq63d0Vm4V2",
+      "_id": "ORxKIEY98a20agze",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!NHAAal8qMoO1iH7m.ORxKIEY98a20agze"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Volonté (permanent)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.3w7YS6uBrt2aNZSO",
+      "_id": "lg01Qrzr6HG8fDEt",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!NHAAal8qMoO1iH7m.lg01Qrzr6HG8fDEt"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Apparence (permanent)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.Dvp0IIsN3Khqmvhy",
+      "_id": "YW6GYi3eDD2xId6P",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!NHAAal8qMoO1iH7m.YW6GYi3eDD2xId6P"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Agilité (permanent)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.VBq8Yjd0t7nN3GRp",
+      "_id": "q36TGXgvapz44ngA",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!NHAAal8qMoO1iH7m.q36TGXgvapz44ngA"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Perception (permanent)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.iZHRmZaDkWHvTfb4",
+      "_id": "5GJ6ANBG0ySYcFm6",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!NHAAal8qMoO1iH7m.5GJ6ANBG0ySYcFm6"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773705437102,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "NHAAal8qMoO1iH7m",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!NHAAal8qMoO1iH7m"
+}

@@ -1,0 +1,180 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "55 - Familier (divers)",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Familier, Poupée (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.h0dU20fpFPKN15PR",
+      "_id": "rhRqorpEtauE0H25",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hV5nlmHzyPNuMsJO.rhRqorpEtauE0H25"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Familier, Bébé (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.vTJvKuPj1z9cIz0u",
+      "_id": "W14bD6qbavfIuzt3",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hV5nlmHzyPNuMsJO.W14bD6qbavfIuzt3"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Familier, Diablotin (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.U554DNib56rslKoO",
+      "_id": "22VK06ei1UUjZ6KJ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hV5nlmHzyPNuMsJO.22VK06ei1UUjZ6KJ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Familier, Véhicule (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.NbBQwodYgADFtcAu",
+      "_id": "cm8VkWQam9DFDPJd",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hV5nlmHzyPNuMsJO.cm8VkWQam9DFDPJd"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Familier, Maison (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.KbYt12hYbDP9JWKh",
+      "_id": "TeYdUlVaepumXRDj",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hV5nlmHzyPNuMsJO.TeYdUlVaepumXRDj"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Familier, Jouet (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.qjJykHbHV7RNVOIr",
+      "_id": "dci5QmaMfgB8Adh3",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hV5nlmHzyPNuMsJO.dci5QmaMfgB8Adh3"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773875377721,
+    "modifiedTime": 1773875377721,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "hV5nlmHzyPNuMsJO",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!hV5nlmHzyPNuMsJO"
+}

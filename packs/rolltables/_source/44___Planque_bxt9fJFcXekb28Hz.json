@@ -1,0 +1,180 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "44 - Planque",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Planque : Caveau",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.Uup650C6rRZAf4Dy",
+      "_id": "HD1RDBWNwnUKJxBz",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bxt9fJFcXekb28Hz.HD1RDBWNwnUKJxBz"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Planque : Catacombes",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.f5LBG1dSYTPKyQoU",
+      "_id": "ncr5XSd93RJJn8Es",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bxt9fJFcXekb28Hz.ncr5XSd93RJJn8Es"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Planque : Egouts",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.dXfIPzmcFpyH8xtq",
+      "_id": "D8EzNNiJ3e839omK",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bxt9fJFcXekb28Hz.D8EzNNiJ3e839omK"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Planque : Métro",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.7JyNRfL23cyYOFwC",
+      "_id": "iMc9R6Aqi8hnFeIe",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bxt9fJFcXekb28Hz.iMc9R6Aqi8hnFeIe"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Planque : Squat",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.z3hAxAYpaq6DzcAM",
+      "_id": "THRrSmy8w6CxzCA2",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bxt9fJFcXekb28Hz.THRrSmy8w6CxzCA2"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Planque : Eglise/Mosquée désaffectée",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.Gvd7dweGc14v6l4a",
+      "_id": "V2wK6UojFdsUSQrX",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bxt9fJFcXekb28Hz.V2wK6UojFdsUSQrX"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773875377721,
+    "modifiedTime": 1773875377721,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "bxt9fJFcXekb28Hz",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!bxt9fJFcXekb28Hz"
+}

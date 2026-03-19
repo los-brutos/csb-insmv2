@@ -13,13 +13,19 @@ echo * start create compendiums          *
 echo * ********************************* *
 echo.
 echo /// configure environment
-call fvtt package workon csb-insmv --type=Module
+call fvtt package workon csb-insmv2 --type=Module
 echo.
 echo /// pack compendium "actor-templates"
 call fvtt package pack actor-templates
 echo.
 echo /// pack compendium "item-templates"
 call fvtt package pack item-templates
+echo.
+echo /// pack compendium "pouvoirs"
+call fvtt package pack pouvoirs
+echo.
+echo /// pack compendium "tables aléatoires"
+call fvtt package pack rolltables
 echo.
 echo * ********************************* *
 echo * all compendiums have been created *

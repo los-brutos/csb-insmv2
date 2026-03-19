@@ -12,13 +12,19 @@ echo * start unpack compendiums           *
 echo * ********************************** *
 echo.
 echo /// configure environment
-call fvtt package workon csb-insmv --type=Module
+call fvtt package workon csb-insmv2 --type=Module
 echo.
 echo /// unpack compendium "actor-templates"
 call fvtt package unpack -c actor-templates
 echo.
 echo /// unpack compendium "item-templates"
 call fvtt package unpack -c item-templates
+echo.
+echo /// unpack compendium "pouvoirs"
+call fvtt package unpack -c pouvoirs
+echo.
+echo /// unpack compendium "tables aléatoires"
+call fvtt package unpack -c rolltables
 echo.
 echo * ********************************** *
 echo * all compendiums have been unpacked *

@@ -1,0 +1,180 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "51 - Mort-vivant",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Morts-vivants, Zombies (2D6)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.zQjNr6TFwuo2n6Ej",
+      "_id": "WO0qXrA4sjE8tWNX",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!xRcPBujeCo6nYphx.WO0qXrA4sjE8tWNX"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Morts-vivants, Zombies (5D6)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.uZXXWdfFHgDOad26",
+      "_id": "Qb5lgaRS1K1bPZoy",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!xRcPBujeCo6nYphx.Qb5lgaRS1K1bPZoy"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Morts-vivants, Squelettes (1D6)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.qetVNYUSEKwFUy9Z",
+      "_id": "f8aLLAkSSFHQaqiE",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!xRcPBujeCo6nYphx.f8aLLAkSSFHQaqiE"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Morts-vivants, Squelettes (2D6)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.NSSn0uplikqSTCwW",
+      "_id": "NXtWayxgIsw7iPi2",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!xRcPBujeCo6nYphx.NXtWayxgIsw7iPi2"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Morts-vivants, Goules (1D6)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.Z9Iw4YsrlvFMBnnm",
+      "_id": "cBkYD1H5zdi2Bs5h",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!xRcPBujeCo6nYphx.cBkYD1H5zdi2Bs5h"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Morts-vivants, Goules (2D6)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.S3qXEbLteUbn6sth",
+      "_id": "1nfvSKkp7sPiRH6S",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!xRcPBujeCo6nYphx.1nfvSKkp7sPiRH6S"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773875377721,
+    "modifiedTime": 1773875377721,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "xRcPBujeCo6nYphx",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!xRcPBujeCo6nYphx"
+}

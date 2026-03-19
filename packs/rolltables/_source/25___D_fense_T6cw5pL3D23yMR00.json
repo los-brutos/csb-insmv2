@@ -1,0 +1,179 @@
+{
+  "name": "25 - Défense",
+  "img": "icons/svg/daze.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Champ de force",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.ybgwtwgw51GHX9aQ",
+      "_id": "bWXn04zBy1Vr1L9p",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!T6cw5pL3D23yMR00.bWXn04zBy1Vr1L9p"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Glace (défense)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.aYGus07lKFNJF08W",
+      "_id": "fZYEDknHjVonkS8i",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!T6cw5pL3D23yMR00.fZYEDknHjVonkS8i"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Courant d'air",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.JGlNqYaAAaTUX06I",
+      "_id": "tVstPcG7I5CEsmie",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!T6cw5pL3D23yMR00.tVstPcG7I5CEsmie"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Champ magnétique",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.GLprjzPI5uRt3iSA",
+      "_id": "zpW7vCLDJGkhyXkD",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!T6cw5pL3D23yMR00.zpW7vCLDJGkhyXkD"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Rebond (à préciser)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.epV5zUmUlkvKB8bi",
+      "_id": "Xtp6Us01Rvv1lJpd",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!T6cw5pL3D23yMR00.Xtp6Us01Rvv1lJpd"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Conversion",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.FnTrz0DXqJZyOBeP",
+      "_id": "IcBXMUuElq6DsHEG",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!T6cw5pL3D23yMR00.IcBXMUuElq6DsHEG"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "B9n02JSCycr74XJJ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773449265888,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "T6cw5pL3D23yMR00",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!T6cw5pL3D23yMR00"
+}

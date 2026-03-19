@@ -1,0 +1,179 @@
+{
+  "name": "16 - Contact",
+  "img": "icons/svg/daze.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Charme (contact)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.AtXPv6HDyQZNjFYC",
+      "_id": "HrwVNX3iT9hbdaOv",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Zc9Jxqs633RatrOY.HrwVNX3iT9hbdaOv"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Faiblesse (contact)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.9woHddI99EmQZyaJ",
+      "_id": "nLV2uJuwTUirPF7t",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Zc9Jxqs633RatrOY.nLV2uJuwTUirPF7t"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Paralysie (contact)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.Px0dR77yG3WOlIU2",
+      "_id": "Ftdm6z9FtAtKPCXr",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Zc9Jxqs633RatrOY.Ftdm6z9FtAtKPCXr"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Peur (contact)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.gFY0SNH3MD7Smfbf",
+      "_id": "aBVKsFx20XSmIhYV",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Zc9Jxqs633RatrOY.aBVKsFx20XSmIhYV"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Sommeil (contact)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.QxhvYMUZbUcbDLyG",
+      "_id": "b7MqmIOvI15OtHk1",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Zc9Jxqs633RatrOY.b7MqmIOvI15OtHk1"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Calme",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.4WR2UBoTxafeU3jX",
+      "_id": "g0D7uuFDcB5pYBSV",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Zc9Jxqs633RatrOY.g0D7uuFDcB5pYBSV"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "B9n02JSCycr74XJJ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773449265888,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "Zc9Jxqs633RatrOY",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!Zc9Jxqs633RatrOY"
+}

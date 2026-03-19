@@ -1,0 +1,179 @@
+{
+  "name": "5 - Serviteurs",
+  "img": "icons/svg/daze.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "51 - Serviteurs de Dieu",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "RollTable.q1HHgzNN8lbpbAnr",
+      "_id": "xWZWmo3K9OkccltB",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!O1YEfuhTa1tXli8X.xWZWmo3K9OkccltB"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "52 - Serviteurs de Dieu spécialisé",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "RollTable.r4iujZCQELOz2EB7",
+      "_id": "PV5oLMjKfSesKF16",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!O1YEfuhTa1tXli8X.PV5oLMjKfSesKF16"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "53 - Soldats de Dieu",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "RollTable.H8Hd2SgfymDoWTsm",
+      "_id": "1sFnig00S4nPDC6T",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!O1YEfuhTa1tXli8X.1sFnig00S4nPDC6T"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "54 - Soldats de Dieu spécialisés",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "RollTable.jyPRVTrDoykfpqgC",
+      "_id": "btH1WmquyU7RnXrD",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!O1YEfuhTa1tXli8X.btH1WmquyU7RnXrD"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "55 - Groupes alliés non affiliés",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "RollTable.RE9849Fk73g6nMRU",
+      "_id": "vstqzm0ihvC48qgE",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!O1YEfuhTa1tXli8X.vstqzm0ihvC48qgE"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "56 - Relations",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "RollTable.uUMxv7nBHw3WiQlL",
+      "_id": "A6RclVpBEJVyVm2b",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!O1YEfuhTa1tXli8X.A6RclVpBEJVyVm2b"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "B9n02JSCycr74XJJ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773449265888,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "O1YEfuhTa1tXli8X",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!O1YEfuhTa1tXli8X"
+}

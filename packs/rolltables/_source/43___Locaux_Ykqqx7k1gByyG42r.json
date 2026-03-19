@@ -1,0 +1,179 @@
+{
+  "name": "43 - Locaux",
+  "img": "icons/svg/daze.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Locaux : Château",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.RNu0bZn4gqHEedmV",
+      "_id": "RAHbMUuULfhXRvco",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Ykqqx7k1gByyG42r.RAHbMUuULfhXRvco"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Locaux : Ecole",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.hStd5MFJ994QbIkB",
+      "_id": "Kj7Cj0ePZ7ftngBT",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Ykqqx7k1gByyG42r.Kj7Cj0ePZ7ftngBT"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Locaux : Immeuble",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.osR2lrW0JwKgpc6t",
+      "_id": "B9QEXSZNJEDGkcCN",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Ykqqx7k1gByyG42r.B9QEXSZNJEDGkcCN"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Locaux : Armée du Salut",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.tJOGZPR5aO6rnsbr",
+      "_id": "QBDRF2OoujFCJ1LS",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Ykqqx7k1gByyG42r.QBDRF2OoujFCJ1LS"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Locaux : Laboratoire",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.ZNNYbdCS3l5wlUQb",
+      "_id": "lkQgcNaro5sN7kkq",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Ykqqx7k1gByyG42r.lkQgcNaro5sN7kkq"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Locaux : Eglise/mosquée",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.ZNdtr85mY4X04gD2",
+      "_id": "o1goN7tpxktiRcs2",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Ykqqx7k1gByyG42r.o1goN7tpxktiRcs2"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "B9n02JSCycr74XJJ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773449265888,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "Ykqqx7k1gByyG42r",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!Ykqqx7k1gByyG42r"
+}

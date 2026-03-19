@@ -1,0 +1,179 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "14 - Absorption",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Volonté (absorption)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.YjlaaWah22TvnOTh",
+      "_id": "t5xVkpV2HBBZgXuK",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VcCbx1G27c29Xh9X.t5xVkpV2HBBZgXuK"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Force (absorption)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.1lcIMVf4CT8ggeJi",
+      "_id": "ZmuT5XGOLClgCVJT",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VcCbx1G27c29Xh9X.ZmuT5XGOLClgCVJT"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Energie sexuelle (absorption)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.lQmU0EcymBA5n4UI",
+      "_id": "hwYnLM4ZggDhMMOk",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VcCbx1G27c29Xh9X.hwYnLM4ZggDhMMOk"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Douleur (absorption)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.rpte009ZrIOI0qSu",
+      "_id": "WDUG1WcK5u8GZFjm",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VcCbx1G27c29Xh9X.WDUG1WcK5u8GZFjm"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Violence (absorption)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.I2wLf9rCB8yJKVYI",
+      "_id": "17bNTkIA7QxVTsDa",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VcCbx1G27c29Xh9X.17bNTkIA7QxVTsDa"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Apparence (absorption)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.yAdmg7vW6lcXdXSe",
+      "_id": "buC93IFHhJcIbVCi",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VcCbx1G27c29Xh9X.buC93IFHhJcIbVCi"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773705437102,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "VcCbx1G27c29Xh9X",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!VcCbx1G27c29Xh9X"
+}

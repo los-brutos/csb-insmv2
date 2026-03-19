@@ -1,0 +1,180 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "54 - Familier (être humain)",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Familier, Majordome (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.EbyORG1VSEv134XJ",
+      "_id": "ibKijrknxOEpVoJf",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sjc7d6IodmLep7Hn.ibKijrknxOEpVoJf"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Familier, Thrasher/Loubard (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.ErA26u0ItnlNna16",
+      "_id": "pe88dmdC1gRjKUSS",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sjc7d6IodmLep7Hn.pe88dmdC1gRjKUSS"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Familier, Grosse brute/Eunuque (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.JPLrc8bn0EVLFYdO",
+      "_id": "yeP9hFy1yweZwPuu",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sjc7d6IodmLep7Hn.yeP9hFy1yweZwPuu"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Familier, Punk/Dealer (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.4MajaGYN6yQG3LYv",
+      "_id": "M28jvKhfU9qET1Wd",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sjc7d6IodmLep7Hn.M28jvKhfU9qET1Wd"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Familier, Tueur psychopathe (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.pyVnpL4fsYbOkxnL",
+      "_id": "YricuexzmclKW3hd",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sjc7d6IodmLep7Hn.YricuexzmclKW3hd"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Familier, Call-girl (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.fTWB6w0bQSzCz8Wq",
+      "_id": "7SI3S3Md7JlE8MWk",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sjc7d6IodmLep7Hn.7SI3S3Md7JlE8MWk"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773875377721,
+    "modifiedTime": 1773875377721,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "sjc7d6IodmLep7Hn",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!sjc7d6IodmLep7Hn"
+}

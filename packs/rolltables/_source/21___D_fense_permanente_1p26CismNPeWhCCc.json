@@ -1,0 +1,179 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "21 - Défense permanente",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Armure corporelle",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.pvZVY19kdujPMBel",
+      "_id": "tB3dWKDkkMUSKLUZ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1p26CismNPeWhCCc.tB3dWKDkkMUSKLUZ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Immunité aux maladies et poisons",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.WMpQiQR7fnXWovWz",
+      "_id": "o11bxZtVTngdZzoZ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1p26CismNPeWhCCc.o11bxZtVTngdZzoZ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Immunité au feu",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.6QYmkdhZv4i5KgKk",
+      "_id": "A05Z25AbzYStNu5V",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1p26CismNPeWhCCc.A05Z25AbzYStNu5V"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Immunité au froid",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.FFNUN5pOCksdOOxb",
+      "_id": "AFXoAwU2XO8Mm7cJ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1p26CismNPeWhCCc.AFXoAwU2XO8Mm7cJ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Pas de nourriture",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.nlophklGYPZ3l1nj",
+      "_id": "9g8aa5EpxDrCIYxv",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1p26CismNPeWhCCc.9g8aa5EpxDrCIYxv"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Anaérobiose",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.8UHJusSw0ZfCvckY",
+      "_id": "JTGXW4ya5KqKurqy",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1p26CismNPeWhCCc.JTGXW4ya5KqKurqy"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773705437102,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "1p26CismNPeWhCCc",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!1p26CismNPeWhCCc"
+}

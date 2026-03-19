@@ -1,0 +1,180 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "43 - Locaux",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Locaux : Morgue",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.mf5E3tqHM01a6UKG",
+      "_id": "317BE9dqEcA19zFe",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D09E25ommJ9NLB6b.317BE9dqEcA19zFe"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Locaux : Cimetière",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.ztHvMxEBMLaXdXsF",
+      "_id": "xe8mjae31CZMK0Dj",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D09E25ommJ9NLB6b.xe8mjae31CZMK0Dj"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Locaux : Immeuble",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.1EpCUofggu8MFiKw",
+      "_id": "OaB66zNirM4UhoAN",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D09E25ommJ9NLB6b.OaB66zNirM4UhoAN"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Locaux : Hôpital",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.mffJKcrKOtgVF5lV",
+      "_id": "M03NcFX6dgFvglCa",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D09E25ommJ9NLB6b.M03NcFX6dgFvglCa"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Locaux : Laboratoire",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.bSXjueZEcd4l0tgt",
+      "_id": "Ld3ppX6Vdbwt2Dti",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D09E25ommJ9NLB6b.Ld3ppX6Vdbwt2Dti"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Locaux : Eglise/mosquée désaffectée",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.revSEYBxyKhzdpoP",
+      "_id": "BiJPIRzZItcNyoxv",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D09E25ommJ9NLB6b.BiJPIRzZItcNyoxv"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773875377721,
+    "modifiedTime": 1773875377721,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "D09E25ommJ9NLB6b",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!D09E25ommJ9NLB6b"
+}

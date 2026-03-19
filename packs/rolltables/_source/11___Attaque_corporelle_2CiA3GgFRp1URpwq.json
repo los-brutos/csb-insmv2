@@ -1,0 +1,179 @@
+{
+  "name": "11 - Attaque corporelle",
+  "_id": "2CiA3GgFRp1URpwq",
+  "img": "icons/svg/daze.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "_id": "HfGDlht1iYw1fAPp",
+      "name": "L'unique",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>Ce pouvoir accorde à son possesseur la faculté de choisir n'importe quel pouvoir dans la table générale ou dans celle de son supérieur.</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!2CiA3GgFRp1URpwq.HfGDlht1iYw1fAPp"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Coup de poing",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.jKYfJC2AnqRG6EER",
+      "_id": "2HNwNCQwQ1vPtLKK",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2CiA3GgFRp1URpwq.2HNwNCQwQ1vPtLKK"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Attaques multiples",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.I0DRXiqtK3v2dsiv",
+      "_id": "D0oECy5UnpJrT6cm",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2CiA3GgFRp1URpwq.D0oECy5UnpJrT6cm"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Membre blindé",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.F9e20lrcsSJVOL0S",
+      "_id": "8aRuO9jAFJFNX0c2",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2CiA3GgFRp1URpwq.8aRuO9jAFJFNX0c2"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Esquive acrobatique",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.B8YZm7yTgMrSR39h",
+      "_id": "u91963bJaOTprHlu",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2CiA3GgFRp1URpwq.u91963bJaOTprHlu"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Assomer",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.KZ0xbetfvjiqQ3H8",
+      "_id": "mh7NsS5SM72YQGAR",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2CiA3GgFRp1URpwq.mh7NsS5SM72YQGAR"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "B9n02JSCycr74XJJ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773449265888,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!2CiA3GgFRp1URpwq"
+}

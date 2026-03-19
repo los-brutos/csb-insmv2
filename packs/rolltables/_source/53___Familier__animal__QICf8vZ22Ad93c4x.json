@@ -1,0 +1,180 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "53 - Familier (animal)",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Familier, Rat (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.GeEibBD1JrmEmLtp",
+      "_id": "Gq6nwJd9QKltzi8f",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QICf8vZ22Ad93c4x.Gq6nwJd9QKltzi8f"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Familier, Chat (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.mPaxHeftIyl6e5sw",
+      "_id": "Fs42iu5ahTR2YXE1",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QICf8vZ22Ad93c4x.Fs42iu5ahTR2YXE1"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Familier, Serpent (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.UMvNl2RY18Uk7KlY",
+      "_id": "pzZvbqYPsCHmWa69",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QICf8vZ22Ad93c4x.pzZvbqYPsCHmWa69"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Familier, Araignée (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.fqMqaDzGOm0ha8D9",
+      "_id": "YLI9sqZvHMqOH20B",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QICf8vZ22Ad93c4x.YLI9sqZvHMqOH20B"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Familier, Corbeau (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.b1nr3rfGWCWwdNVO",
+      "_id": "7RG6qjaapJCXclyW",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QICf8vZ22Ad93c4x.7RG6qjaapJCXclyW"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Familier, Gecko (1)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.a6e5JjpIEwul7Xus",
+      "_id": "K0s2vJOiSsxsoGVT",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QICf8vZ22Ad93c4x.K0s2vJOiSsxsoGVT"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773875377721,
+    "modifiedTime": 1773875377721,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "QICf8vZ22Ad93c4x",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!QICf8vZ22Ad93c4x"
+}

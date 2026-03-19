@@ -1,0 +1,179 @@
+{
+  "name": "32 - Communication",
+  "img": "icons/svg/daze.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Télépathie",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.rVkgi7IrkORv5UTe",
+      "_id": "yMEWux4vYZ7jA4To",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bsgkj3uWAyrE7SV4.yMEWux4vYZ7jA4To"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Dialogue mental",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.ZfmeQvSYKYH0eEOi",
+      "_id": "iGXaDIHquiEvohzw",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bsgkj3uWAyrE7SV4.iGXaDIHquiEvohzw"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Lire les pensées",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.FFQ0zcqhq4ZWbsoW",
+      "_id": "RyJqYbDh4y55FKh8",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bsgkj3uWAyrE7SV4.RyJqYbDh4y55FKh8"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Lire les sentiments",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.4DNTV4jyGdS1iu7I",
+      "_id": "CKmAwZVfGpEqohox",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bsgkj3uWAyrE7SV4.CKmAwZVfGpEqohox"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Rêve",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.v0HCYcT009vBk065",
+      "_id": "Yj8lmmdHafzDOllX",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bsgkj3uWAyrE7SV4.Yj8lmmdHafzDOllX"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Projection de pouvoir",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.RvTseoCGrHUrlZkv",
+      "_id": "9gThMROkS4UO4UHF",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bsgkj3uWAyrE7SV4.9gThMROkS4UO4UHF"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "B9n02JSCycr74XJJ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773449265888,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "bsgkj3uWAyrE7SV4",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!bsgkj3uWAyrE7SV4"
+}

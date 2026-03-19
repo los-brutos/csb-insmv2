@@ -1,0 +1,179 @@
+{
+  "name": "14 - Absorption",
+  "img": "icons/svg/daze.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Volonté (absorption)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.a2AUkk0QDF57cOoy",
+      "_id": "6F1ZWBBVr7T8XBc6",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!KRCC0wcQaIAes0kC.6F1ZWBBVr7T8XBc6"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Force (absorption)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.thqexRFOCyipVRX5",
+      "_id": "uhIj6TynZDxowrQV",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!KRCC0wcQaIAes0kC.uhIj6TynZDxowrQV"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Amour (absorption)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.cFUDbOAAMQ5aZlqD",
+      "_id": "aXwyBOEcAwPTnH7S",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!KRCC0wcQaIAes0kC.aXwyBOEcAwPTnH7S"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Gentillesse (absorption)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.9cfAN0V2qpliuF1c",
+      "_id": "xz3MDIl7lI8tEhc7",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!KRCC0wcQaIAes0kC.xz3MDIl7lI8tEhc7"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Colère (absorption)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.JaMaYIcMZuUjuect",
+      "_id": "hMl3IhCJNRSVIvqI",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!KRCC0wcQaIAes0kC.hMl3IhCJNRSVIvqI"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Mal (absorption)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.kVq06udzDvce3oWo",
+      "_id": "2ouBiRJRU00ZJb8T",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!KRCC0wcQaIAes0kC.2ouBiRJRU00ZJb8T"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "B9n02JSCycr74XJJ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773449265888,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "KRCC0wcQaIAes0kC",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!KRCC0wcQaIAes0kC"
+}

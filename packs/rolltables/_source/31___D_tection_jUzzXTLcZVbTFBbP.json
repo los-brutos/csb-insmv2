@@ -1,0 +1,179 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "31 - Détection",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Détection du bien",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.3yTBf7oeiR4GZNGB",
+      "_id": "bKCRFuwfhk1eCQGd",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!jUzzXTLcZVbTFBbP.bKCRFuwfhk1eCQGd"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Détection des ennemis",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.X7Zrg8lFc6vUVS0k",
+      "_id": "dJD3A7aHicbRybZf",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!jUzzXTLcZVbTFBbP.dJD3A7aHicbRybZf"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Détection de l'invisible",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.y1gothjbfHyyTfDB",
+      "_id": "hWDKAD5g5dJziUQl",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!jUzzXTLcZVbTFBbP.hWDKAD5g5dJziUQl"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Détection du futur proche",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.GsNYivZ9MZKAL4JY",
+      "_id": "VZ66E08mKKGEAGcK",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!jUzzXTLcZVbTFBbP.VZ66E08mKKGEAGcK"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Détection du danger",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.7BESgSBo5THsIrDu",
+      "_id": "4kFaYXgw9hhBD2bU",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!jUzzXTLcZVbTFBbP.4kFaYXgw9hhBD2bU"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Détection de la vérité",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.9fH0Vv3i6iF3bG4n",
+      "_id": "bwKLBBM3dJPq6Kp4",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!jUzzXTLcZVbTFBbP.bwKLBBM3dJPq6Kp4"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773705437102,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "jUzzXTLcZVbTFBbP",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!jUzzXTLcZVbTFBbP"
+}

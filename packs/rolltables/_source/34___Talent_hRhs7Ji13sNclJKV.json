@@ -1,0 +1,179 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "34 - Talent",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Talent physique (à préciser)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.QfGG6Z1LoZtKrCqy",
+      "_id": "6wbgFgUeNsTVj7dR",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hRhs7Ji13sNclJKV.6wbgFgUeNsTVj7dR"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Talent artistique (à préciser)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.j0hV1sV201FZllgf",
+      "_id": "xL3R7PTehpPohmTM",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hRhs7Ji13sNclJKV.xL3R7PTehpPohmTM"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Talent scientifique (à préciser)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.qocpSXghZAYCW80B",
+      "_id": "p28xNwNlS7gmTFBr",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hRhs7Ji13sNclJKV.p28xNwNlS7gmTFBr"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Talent de communication (à préciser)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.4TZbLfBvA1pwDWr7",
+      "_id": "1O4sRq8feqb2rkcY",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hRhs7Ji13sNclJKV.1O4sRq8feqb2rkcY"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Talent de ruse (à préciser)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.VvYmhmFWu5qS6964",
+      "_id": "93VC8sG6R5asIaEB",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hRhs7Ji13sNclJKV.93VC8sG6R5asIaEB"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Talent de combat (à préciser)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.UfcUjDT6VD1vbUHU",
+      "_id": "C0zidS5bnYl6bK2L",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hRhs7Ji13sNclJKV.C0zidS5bnYl6bK2L"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773705437102,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "hRhs7Ji13sNclJKV",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!hRhs7Ji13sNclJKV"
+}

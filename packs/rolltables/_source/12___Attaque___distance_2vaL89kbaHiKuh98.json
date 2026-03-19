@@ -1,0 +1,179 @@
+{
+  "name": "12 - Attaque à distance",
+  "_id": "2vaL89kbaHiKuh98",
+  "img": "icons/svg/daze.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Eclair",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.JF4dJ7RpybEJnneW",
+      "_id": "1km0bBWZM8GMxoFV",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2vaL89kbaHiKuh98.1km0bBWZM8GMxoFV"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Lumière",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.GjozKSp1d192Kuj1",
+      "_id": "qYMXYBfXlWhf4yR0",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2vaL89kbaHiKuh98.qYMXYBfXlWhf4yR0"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Son",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.e76kqjGl9n7F8wlO",
+      "_id": "V77vRESw0N2rag3U",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2vaL89kbaHiKuh98.V77vRESw0N2rag3U"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Eau bénite",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.25gadF30ZKqRBNvo",
+      "_id": "gQmLuPNgDbssJx3j",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2vaL89kbaHiKuh98.gQmLuPNgDbssJx3j"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Eau du robinet",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.imMwrVEsYV0Pm75C",
+      "_id": "6FusaU7wdBwaa9NS",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2vaL89kbaHiKuh98.6FusaU7wdBwaa9NS"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Télékinésie",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.309z1OByYeZh2YhC",
+      "_id": "btY8WUgysAIq41zM",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2vaL89kbaHiKuh98.btY8WUgysAIq41zM"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "B9n02JSCycr74XJJ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773449265888,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!2vaL89kbaHiKuh98"
+}

@@ -1,0 +1,179 @@
+{
+  "name": "55 - Groupes alliés non affiliés",
+  "img": "icons/svg/daze.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Scouts / Syndicalistes (4d6)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.xZRwL4ruViqEGBUj",
+      "_id": "AZ5yE5r2Z8zrm3Sz",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RE9849Fk73g6nMRU.AZ5yE5r2Z8zrm3Sz"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Service d'ordre (3d6)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.c80BicHfjw5RZ1ct",
+      "_id": "m9StZH6H0GMec7VG",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RE9849Fk73g6nMRU.m9StZH6H0GMec7VG"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Skinheads / Loubards (3d6)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.nPP8rx8KvbmPKqwK",
+      "_id": "PrIhfNCwcMMy0OOe",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RE9849Fk73g6nMRU.PrIhfNCwcMMy0OOe"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Milices urbaines ou rurales / Milices islamiques (3d6)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.jFHbksylXJEitVKc",
+      "_id": "5ni51X4XJoaF8ray",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RE9849Fk73g6nMRU.5ni51X4XJoaF8ray"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Police municipale (2d6)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.pvdAaU44RDnP3nYv",
+      "_id": "0iWVlXjecFfJTZUx",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RE9849Fk73g6nMRU.0iWVlXjecFfJTZUx"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Royalistes / Intégristes (2d6)",
+      "img": "icons/svg/daze.svg",
+      "documentUuid": "Item.Xmu72ZZuMzKFmJq4",
+      "_id": "aLgkdB5acXYhNqPu",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RE9849Fk73g6nMRU.aLgkdB5acXYhNqPu"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "B9n02JSCycr74XJJ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773449265888,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "RE9849Fk73g6nMRU",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!RE9849Fk73g6nMRU"
+}

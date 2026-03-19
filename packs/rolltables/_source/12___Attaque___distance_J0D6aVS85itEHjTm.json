@@ -1,0 +1,179 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "12 - Attaque à distance",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Feu",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.PQcIDk14sXaWwDBQ",
+      "_id": "zjhdsy1Ngx9l8tZj",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!J0D6aVS85itEHjTm.zjhdsy1Ngx9l8tZj"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Glace (attaque)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.Z9l6Rkl29eZAKaBU",
+      "_id": "8GLNmYU1CrUWEh7a",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!J0D6aVS85itEHjTm.8GLNmYU1CrUWEh7a"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Energie",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.tuOezanxG8y0SGpT",
+      "_id": "sxiFMoyaEUSpsZ81",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!J0D6aVS85itEHjTm.sxiFMoyaEUSpsZ81"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Onde de choc",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.EDeTbmbqZ54BVdlf",
+      "_id": "zIq7kr4ZChVsm0V6",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!J0D6aVS85itEHjTm.zIq7kr4ZChVsm0V6"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Télékinésie",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.cEIwCE7yB8FyTkxY",
+      "_id": "icslc3lxWOKVzAZG",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!J0D6aVS85itEHjTm.icslc3lxWOKVzAZG"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Acide (attaque)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.HVyBMzQR4s85BAUk",
+      "_id": "55XOA4MUlkWeHeo7",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!J0D6aVS85itEHjTm.55XOA4MUlkWeHeo7"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773705437102,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "J0D6aVS85itEHjTm",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!J0D6aVS85itEHjTm"
+}

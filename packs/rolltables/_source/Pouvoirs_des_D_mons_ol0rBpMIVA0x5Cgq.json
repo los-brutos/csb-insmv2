@@ -1,0 +1,23 @@
+{
+  "type": "RollTable",
+  "folder": "Q3dgzH1V2RU1PaeI",
+  "name": "Pouvoirs des Démons",
+  "color": null,
+  "sorting": "a",
+  "_id": "ol0rBpMIVA0x5Cgq",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773705436940,
+    "modifiedTime": 1773875377433,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "_key": "!folders!ol0rBpMIVA0x5Cgq"
+}

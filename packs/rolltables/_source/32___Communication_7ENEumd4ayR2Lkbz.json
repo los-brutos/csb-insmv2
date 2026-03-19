@@ -1,0 +1,179 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "32 - Communication",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Télépathie",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.4XloT6eHNq2SvwJd",
+      "_id": "2vxEPFVwWTzvZOHm",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7ENEumd4ayR2Lkbz.2vxEPFVwWTzvZOHm"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Dialogue mental",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.xLgnBAxZwzpxlmy4",
+      "_id": "Df5QW3PdPkoXYlRE",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7ENEumd4ayR2Lkbz.Df5QW3PdPkoXYlRE"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Lire les pensées",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.c2WwGG7xfjcYMNnw",
+      "_id": "4V2cxZ4ZilYpapQM",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7ENEumd4ayR2Lkbz.4V2cxZ4ZilYpapQM"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Lire les sentiments",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.zPIN6OslNuTs07jh",
+      "_id": "8kNkd7kc23Ep972f",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7ENEumd4ayR2Lkbz.8kNkd7kc23Ep972f"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Dialogue multiple",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.Mzo0QujzOOZXAvhC",
+      "_id": "ZtKdggDk1Geh9j3q",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7ENEumd4ayR2Lkbz.ZtKdggDk1Geh9j3q"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Cauchemar",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.guNhzocJ8tNQ3aaN",
+      "_id": "OdTyItpRg8wFk8XQ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7ENEumd4ayR2Lkbz.OdTyItpRg8wFk8XQ"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773705437102,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "7ENEumd4ayR2Lkbz",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!7ENEumd4ayR2Lkbz"
+}

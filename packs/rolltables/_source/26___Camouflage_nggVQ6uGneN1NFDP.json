@@ -1,0 +1,179 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "26 - Camouflage",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Invisibilité",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.pzyeD7UmYKRt7lDA",
+      "_id": "03fGrJY9GTdUXJcw",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!nggVQ6uGneN1NFDP.03fGrJY9GTdUXJcw"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Caméléon",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.dI7ZfN9YiwKEm7TA",
+      "_id": "7l8uCvlHrgXHQKZM",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!nggVQ6uGneN1NFDP.7l8uCvlHrgXHQKZM"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Forme gazeuse (défense)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.OERzywQDujKgIvsl",
+      "_id": "riJ22oeCL2vjgQIF",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!nggVQ6uGneN1NFDP.riJ22oeCL2vjgQIF"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Liquéfaction",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.yCusLFKqkeKi5bMd",
+      "_id": "bkgO18z41V7D8cQT",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!nggVQ6uGneN1NFDP.bkgO18z41V7D8cQT"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Réduction",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.nFkFFaHgUEIP2Zuf",
+      "_id": "Ec2PjGARpl5hNeX3",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!nggVQ6uGneN1NFDP.Ec2PjGARpl5hNeX3"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Polymorphe",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.gwJm0uCJz4y12xis",
+      "_id": "BkW5bpLPTDACYOHZ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!nggVQ6uGneN1NFDP.BkW5bpLPTDACYOHZ"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773705437102,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "nggVQ6uGneN1NFDP",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!nggVQ6uGneN1NFDP"
+}

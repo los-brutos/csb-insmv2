@@ -1,0 +1,179 @@
+{
+  "folder": "ol0rBpMIVA0x5Cgq",
+  "name": "22 - Défense mentale",
+  "img": "icons/svg/fire.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Volonté supranormale",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.7tKFIkBcGU8Z16ZS",
+      "_id": "d4bOAi3yZGpkBJC5",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FBKTDG5RiF6lMCLx.d4bOAi3yZGpkBJC5"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Non-détection",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.AmfZoQRGjwUzCmrO",
+      "_id": "HJU10EX2HWeKMqw1",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FBKTDG5RiF6lMCLx.HJU10EX2HWeKMqw1"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Multiplication",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.wacEhwQIMoqDlwyM",
+      "_id": "lR5IduO0raRU4zin",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FBKTDG5RiF6lMCLx.lR5IduO0raRU4zin"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Boomerang",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.v6kIY7xv8aHorBtF",
+      "_id": "ZxUzRBn8wpI507n9",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FBKTDG5RiF6lMCLx.ZxUzRBn8wpI507n9"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Immunité (à préciser)",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.07p2NPMPsgUQZA6R",
+      "_id": "3zGqp1AbBGur8Yvb",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FBKTDG5RiF6lMCLx.3zGqp1AbBGur8Yvb"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Régénération",
+      "img": "icons/svg/fire.svg",
+      "documentUuid": "Item.AXQeStijCeAIsfGR",
+      "_id": "RDgjerMUabD1gujw",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.0",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FBKTDG5RiF6lMCLx.RDgjerMUabD1gujw"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1773705437102,
+    "modifiedTime": 1773875377586,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "FBKTDG5RiF6lMCLx",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!tables!FBKTDG5RiF6lMCLx"
+}
