@@ -42,7 +42,7 @@ Télécharge l'archive contenant le module. La décompresser dans le répertoire
 ### Configuration
 
 * Crée un monde avec le système Custom System Builder. 
-* Active le module **CSB - INS/MV (2de édition)**.
+* Active le module **CSB - In Nomine Satanis / Magna Veritas (INS/MV)**.
 * Importe les templates, les pouvoirs, les supérieur.es et les tables de tirage des sorts qui sont dans les compendiums :
   * Clique droit sur un Compendium pour afficher le menu
   * Clique sur *Importer tout le contenu*
