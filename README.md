@@ -49,8 +49,7 @@ Télécharge l'archive contenant le module. La décompresser dans le répertoire
   * Dans la fenêtre qui s'affiche, coche la case *Garder l'ID des documents*
   * Clique sur le bouton *Importer*
 
-A minima, il faut importer les compendiums **INS/MV - Templates Acteurs** et **INS/MV - Templates Objets**. 
-Les templates sont présents dans ton monde et tu peux commencer utiliser le module.
+Les templates et les objets (pouvoirs, supérieur.es) sont présents dans ton monde et tu peux commencer utiliser le module.
 /!\ un template n'est pas une fiche comme les autres : c'est à partir d'un template que vous allez pouvoir créer les fiches des PJ et PNJ
 
 A noter que cette opération d'import sera à faire à chaque mise à jour du module pour bénéficier des mises à jour.
@@ -59,5 +58,5 @@ A noter que cette opération d'import sera à faire à chaque mise à jour du mo
 
 * Crée des humains, des Anges ou des Démons gràce à la fiche INS/MV
 * Ajoute des **Talents** et leur niveau dans la liste des Talents
-* Glisse des pouvoirs sur la fiche (l'onglet est caché pour les humains et visible pour les Anges et les Démons)
-* Glisse un supérieur sur la fiche d'un Ange ou d'un Démon
+* Glisse des **Pouvoirs** sur la fiche (l'onglet est caché pour les humains et visible pour les Anges et les Démons)
+* Glisse un.e **supérieur.e** sur la fiche d'un Ange ou d'un Démon
