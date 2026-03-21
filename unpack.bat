@@ -23,6 +23,9 @@ echo.
 echo /// unpack compendium "pouvoirs"
 call fvtt package unpack -c pouvoirs
 echo.
+echo /// unpack compendium "superieures"
+call fvtt package unpack -c superieures
+echo.
 echo /// unpack compendium "tables aléatoires"
 call fvtt package unpack -c rolltables
 echo.

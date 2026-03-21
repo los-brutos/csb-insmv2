@@ -64,6 +64,18 @@
       "flags": {}
     },
     {
+      "name": "superieures",
+      "label": "INS/MV Supérieur.es",
+      "path": "packs/superieures",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "custom-system-builder",
+      "flags": {}
+    },
+    {
       "name": "rolltables",
       "label": "INS/MV Tables aléatoires",
       "type": "RollTable",

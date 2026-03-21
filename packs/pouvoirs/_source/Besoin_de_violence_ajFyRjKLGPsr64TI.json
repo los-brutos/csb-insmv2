@@ -857,13 +857,12 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773875392828,
-    "modifiedTime": 1773875392828,
+    "modifiedTime": 1774104582063,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "ajFyRjKLGPsr64TI",
   "ownership": {
-    "default": 0,
-    "y5tCExgMFbYMpCHk": 3
+    "default": 0
   },
   "sort": 0,
   "_key": "!items!ajFyRjKLGPsr64TI"

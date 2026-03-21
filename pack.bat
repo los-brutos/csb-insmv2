@@ -21,6 +21,9 @@ echo.
 echo /// pack compendium "item-templates"
 call fvtt package pack item-templates
 echo.
+echo /// pack compendium "superieures"
+call fvtt package pack superieures
+echo.
 echo /// pack compendium "pouvoirs"
 call fvtt package pack pouvoirs
 echo.
