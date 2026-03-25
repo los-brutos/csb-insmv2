@@ -1,0 +1,27 @@
+{
+  "name": "d666",
+  "type": "script",
+  "command": "// 1. Définition des lancers avec leurs labels de couleur pour Foundry/DSN\n// La syntaxe \"1d6[couleur]\" est interprétée nativement par Dice So Nice.\nlet r1 = await new Roll(\"1d6[red]\").evaluate();\nlet r2 = await new Roll(\"1d6[black]\").evaluate();\nlet r3 = await new Roll(\"1d6[white]\").evaluate();\n\nconst results = [\n  { val: r1.total, bg: \"#cc0000\", txt: \"#ffffff\" },\n  { val: r2.total, bg: \"#000000\", txt: \"#ffffff\" },\n  { val: r3.total, bg: \"#ffffff\", txt: \"#000000\", border: \"1px solid #000\" }\n];\n\n// 2. Affichage des dés en 3D (DSN écoute les messages de chat)\n// On crée le message de chat. Dice So Nice interceptera les jets \n// et affichera les dés rouge, noir et blanc grâce aux tags ci-dessus.\nlet diceHtml = results.map(d => {\n  let border = d.border ? `border: ${d.border};` : \"border: none;\";\n  return `\n    <div style=\"background:${d.bg}; color:${d.txt}; ${border} width:25px; height:25px; line-height:25px; text-align:center; border-radius:4px; font-size:1.1em; font-weight:bold; display:inline-block; margin-right:6px; box-shadow:1px 1px 2px rgba(0,0,0,0.3);\">\n      ${d.val}\n    </div>`;\n}).join(\"\");\n\n// 3. Envoi au Chat\nChatMessage.create({\n  user: game.user._id,\n  speaker: ChatMessage.getSpeaker(),\n  // On passe les rolls originaux pour que DSN les détectent\n  rolls: [r1, r2, r3],\n  content: `\n    <div style=\"display: flex; padding: 1em; padding-left: 33%; align-items: center;\">\n      ${diceHtml}\n    </div>\n  `\n});",
+  "img": "icons/svg/dice-target.svg",
+  "_id": "M2N7dhaYJA6tByco",
+  "author": "y5tCExgMFbYMpCHk",
+  "scope": "global",
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.0",
+    "createdTime": 1774454854703,
+    "modifiedTime": 1774464573326,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!macros!M2N7dhaYJA6tByco"
+}

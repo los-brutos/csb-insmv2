@@ -3,25 +3,111 @@
  * Les classes préfixées par 'insmv-'
  */
 
+/* FICHE */
 .insmv-cadre {
   border: 1px solid var(--color-border);
+  padding-right: 5px;
+  padding-left: 5px;
   border-radius: 5px;
 }
 
-.insmv-jet {
-  padding: 2px;
+/* CHATMESSAGES */
+.message-content .insmv-libelle {
+  text-align: center;
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: var(--font-h4);
+  font-size: var(--font-h4-size);
+  padding: 0.5em;
+}
+
+/* DES AFFICHES */
+
+.dice {
+  width:25px;
+  height:25px;
+  line-height:25px;
+  text-align:center;
+  border-radius:4px;
+  font-size:1.1em;
+  font-weight:bold;
+  display:inline-block;
+  margin-right:6px;
+  box-shadow:1px 1px 1px rgba(0,0,0,0.2);
+}
+
+.dice-hundreds {
+  background:#cc0000;
+  color:#ffffff;
+  border:none;
+}
+
+.dice-tens {
+  background:#000000;
+  color:#ffffff;
+  border:none;
+}
+
+.dice-units {
+  background:#ffffff;
+  color:#000000;
+  border:1px solid #666;
+}
+
+/* JETS */
+.message-content .insmv-jet {
+  padding: 0px;
   text-align: center;
   font-weight: bold;
-  font-size: 150%;
   border-radius: 5px;
 }
-.insmv-jet-bete {
+.message-content .insmv-jet-bete {
   background-color: PeachPuff !important;
   color: DarkRed;
   border: solid 1px DarkRed;
 }
-.insmv-jet-unique {
+.message-content .insmv-jet-unique {
   background-color: PaleTurquoise !important;
   color: RoyalBlue;
   border: solid 1px RoyalBlue;
 }
+
+/* RESULTATS */
+.message-content .insmv-result {
+  font-weight: bold;
+  font-size: var(--font-h5-size);
+  text-align: left;
+  padding: 2px;
+  border: solid 1px black;
+  background-color: white !important;
+}
+.message-content .insmv-success {
+  color: var(--color-level-success);
+  border: solid 1px var(--color-level-success-border);
+  font-weight: bold;
+  text-align: left;
+  padding: 2px;
+  background-color: white !important;
+}
+/**/
+.message-content .insmv-success th div::before, .message-content .insmv-success th div::after {
+  font: var(--fa-font-solid);
+  content: '\f00c';
+  padding: 0.5em;
+}
+/**/
+.message-content .insmv-fail {
+  color: var(--color-level-error);
+  border: solid 1px var(--color-level-error-border);
+  font-weight: bold;
+  text-align: left;
+  padding: 2px;
+  background-color: white !important;
+}
+/**/
+.message-content .insmv-fail th div::before, .message-content .insmv-fail th div::after {
+  font: var(--fa-font-solid);
+  content: '\21';
+  padding: 0.5em;
+}
+/**/

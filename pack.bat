@@ -30,6 +30,9 @@ echo.
 echo /// pack compendium "tables aléatoires"
 call fvtt package pack rolltables
 echo.
+echo /// pack compendium "macros"
+call fvtt package pack macros
+echo.
 echo * ********************************* *
 echo * all compendiums have been created *
 echo * ********************************* *

@@ -29,6 +29,9 @@ echo.
 echo /// unpack compendium "tables aléatoires"
 call fvtt package unpack -c rolltables
 echo.
+echo /// unpack compendium "macros"
+call fvtt package unpack -c macros
+echo.
 echo * ********************************** *
 echo * all compendiums have been unpacked *
 echo * ********************************** *
