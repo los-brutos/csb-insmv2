@@ -829,12 +829,12 @@
     "props": {
       "specifique": false,
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté de passer à travers les murs et les plafonds pour 5PP toutes les 5 secondes.</p><p>Attention : L'utilisateur reprend forme dès qu'il sort de la matière. Il peut emporter (20 x VO) kg avec lui.</p><p>Attention (bis) : Si l'utilisateur n'a plus assez de PP et qu'il se trouve au milieu d'un mur, il en fera partie intégrante pour toujours.</p><p>Utilisé en défense, ce pouvoir permet d'éviter toute attaque physique pour le tour en cours à raison de 1PP par attaqué évitée.</p>",
-      "cout": "1/att+5/sec",
+      "cout": "1/att+3/5 sec",
       "portee": "Personnel",
       "numero": "A335",
       "reussite": "auto",
       "defense": "-",
-      "niveau": " +0",
+      "niveau": "U",
       "type": "M"
     },
     "unique": false,
@@ -855,9 +855,9 @@
     "exportSource": null,
     "coreVersion": "13.351",
     "systemId": "custom-system-builder",
-    "systemVersion": "5.2.0",
+    "systemVersion": "5.2.1",
     "createdTime": 1773448983388,
-    "modifiedTime": 1774104582063,
+    "modifiedTime": 1774734482082,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "XNi5662nRxpYI7b1",

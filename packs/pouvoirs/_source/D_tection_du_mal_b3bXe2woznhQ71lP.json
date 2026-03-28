@@ -829,10 +829,10 @@
     "props": {
       "specifique": false,
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté de détecter la présence d'un être maléfique (un Démon, un Prince-Démon, un familier, un mort-vivant, une succube, un incube ou un être humain possédé). Le maître de jeu devra donner la position approximative de ces créatures, mais ni leur puissance ni leur nombre exact. La portée effective du pouvoir est un cercle de 10 plus (10 x Niveau dans ce pouvoir) mètres de rayon.</p>",
-      "cout": "0",
-      "portee": "Variable",
+      "cout": "1/sec",
+      "portee": "10+(10xNiv)m",
       "numero": "A311",
-      "reussite": "PE",
+      "reussite": "auto",
       "defense": "-",
       "niveau": " +0",
       "type": "M"
@@ -855,9 +855,9 @@
     "exportSource": null,
     "coreVersion": "13.351",
     "systemId": "custom-system-builder",
-    "systemVersion": "5.2.0",
+    "systemVersion": "5.2.1",
     "createdTime": 1773272195371,
-    "modifiedTime": 1774104582063,
+    "modifiedTime": 1774734482082,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "b3bXe2woznhQ71lP",

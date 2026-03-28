@@ -217,6 +217,18 @@
                   {
                     "key": "-5",
                     "value": "-5"
+                  },
+                  {
+                    "key": "-6",
+                    "value": "-6"
+                  },
+                  {
+                    "key": "-7",
+                    "value": "-7"
+                  },
+                  {
+                    "key": "-8",
+                    "value": "-8"
                   }
                 ]
               }
@@ -301,718 +313,13 @@
       "type": "panel"
     },
     "uniqueId": "6F4VLGMfaCcwblwI",
-    "templateSystemUniqueVersion": 1197552209
+    "templateSystemUniqueVersion": 2416814243
   },
   "effects": [],
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0",
       "templateHistory": [
-        [
-          {
-            "kind": "E",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "key"
-            ],
-            "lhs": "modificateur_copy1",
-            "rhs": "malusCol"
-          },
-          {
-            "kind": "A",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "options"
-            ],
-            "index": 10,
-            "item": {
-              "kind": "D",
-              "lhs": {
-                "key": "-5",
-                "value": "-5"
-              }
-            }
-          },
-          {
-            "kind": "A",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "options"
-            ],
-            "index": 9,
-            "item": {
-              "kind": "D",
-              "lhs": {
-                "key": "-4",
-                "value": "-4"
-              }
-            }
-          },
-          {
-            "kind": "A",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "options"
-            ],
-            "index": 8,
-            "item": {
-              "kind": "D",
-              "lhs": {
-                "key": "-3",
-                "value": "-3"
-              }
-            }
-          },
-          {
-            "kind": "A",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "options"
-            ],
-            "index": 7,
-            "item": {
-              "kind": "D",
-              "lhs": {
-                "key": "-2",
-                "value": "-2"
-              }
-            }
-          },
-          {
-            "kind": "A",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "options"
-            ],
-            "index": 6,
-            "item": {
-              "kind": "D",
-              "lhs": {
-                "key": "-1",
-                "value": "-1"
-              }
-            }
-          },
-          {
-            "kind": "E",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "options",
-              5,
-              "key"
-            ],
-            "lhs": "0",
-            "rhs": "-5"
-          },
-          {
-            "kind": "E",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "options",
-              5,
-              "value"
-            ],
-            "lhs": "+0",
-            "rhs": "-5"
-          },
-          {
-            "kind": "E",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "options",
-              4,
-              "key"
-            ],
-            "lhs": "1",
-            "rhs": "-4"
-          },
-          {
-            "kind": "E",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "options",
-              4,
-              "value"
-            ],
-            "lhs": "+1",
-            "rhs": "-4"
-          },
-          {
-            "kind": "E",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "options",
-              3,
-              "key"
-            ],
-            "lhs": "2",
-            "rhs": "-3"
-          },
-          {
-            "kind": "E",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "options",
-              3,
-              "value"
-            ],
-            "lhs": "+2",
-            "rhs": "-3"
-          },
-          {
-            "kind": "E",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "options",
-              2,
-              "key"
-            ],
-            "lhs": "3",
-            "rhs": "-2"
-          },
-          {
-            "kind": "E",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "options",
-              2,
-              "value"
-            ],
-            "lhs": "+3",
-            "rhs": "-2"
-          },
-          {
-            "kind": "E",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "options",
-              1,
-              "key"
-            ],
-            "lhs": "4",
-            "rhs": "-1"
-          },
-          {
-            "kind": "E",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "options",
-              1,
-              "value"
-            ],
-            "lhs": "+4",
-            "rhs": "-1"
-          },
-          {
-            "kind": "E",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "options",
-              0,
-              "key"
-            ],
-            "lhs": "5",
-            "rhs": "0"
-          },
-          {
-            "kind": "E",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "options",
-              0,
-              "value"
-            ],
-            "lhs": "+5",
-            "rhs": "+0"
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "customSize"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "tableKey"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "tableKeyColumn"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "tableLabelColumn"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "formulaKeyOptions"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              1,
-              "formulaLabelOptions"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              2,
-              0,
-              "customSize"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              1,
-              1,
-              "customSize"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              1,
-              1,
-              "tableKey"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              1,
-              1,
-              "tableKeyColumn"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              1,
-              1,
-              "tableLabelColumn"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              1,
-              1,
-              "formulaKeyOptions"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              1,
-              1,
-              "formulaLabelOptions"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              1,
-              0,
-              "customSize"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              0,
-              1,
-              "customSize"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              0,
-              1,
-              "tableKey"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              0,
-              1,
-              "tableKeyColumn"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              0,
-              1,
-              "tableLabelColumn"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              0,
-              1,
-              "formulaKeyOptions"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              0,
-              1,
-              "formulaLabelOptions"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              1,
-              "contents",
-              0,
-              0,
-              "customSize"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "contents",
-              0,
-              "customSize"
-            ]
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "colSpan"
-            ],
-            "rhs": 1
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "rowSpan"
-            ],
-            "rhs": 1
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "cssClass"
-            ],
-            "rhs": ""
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "role"
-            ],
-            "rhs": 0
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "editRole"
-            ],
-            "rhs": 0
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "permission"
-            ],
-            "rhs": 0
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "tooltip"
-            ],
-            "rhs": ""
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "visibilityFormula"
-            ],
-            "rhs": ""
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "editableFormula"
-            ],
-            "rhs": ""
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "escapeHTML"
-            ],
-            "rhs": false
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "flow"
-            ],
-            "rhs": "vertical"
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "align"
-            ],
-            "rhs": "center"
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "verticalAlign"
-            ],
-            "rhs": "top"
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "collapsible"
-            ],
-            "rhs": false
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "defaultCollapsed"
-            ],
-            "rhs": true
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "title"
-            ],
-            "rhs": ""
-          },
-          {
-            "kind": "N",
-            "path": [
-              "body",
-              "titleStyle"
-            ],
-            "rhs": "default"
-          }
-        ],
         [
           {
             "kind": "N",
@@ -5521,6 +4828,474 @@
             ],
             "rhs": "default"
           }
+        ],
+        [
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              2,
+              1,
+              "customSize"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              2,
+              1,
+              "tableKey"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              2,
+              1,
+              "tableKeyColumn"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              2,
+              1,
+              "tableLabelColumn"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              2,
+              1,
+              "formulaKeyOptions"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              2,
+              1,
+              "formulaLabelOptions"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              2,
+              0,
+              "customSize"
+            ]
+          },
+          {
+            "kind": "A",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              1,
+              1,
+              "options"
+            ],
+            "index": 14,
+            "item": {
+              "kind": "N",
+              "rhs": {
+                "key": "-8",
+                "value": "-8"
+              }
+            }
+          },
+          {
+            "kind": "A",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              1,
+              1,
+              "options"
+            ],
+            "index": 13,
+            "item": {
+              "kind": "N",
+              "rhs": {
+                "key": "-7",
+                "value": "-7"
+              }
+            }
+          },
+          {
+            "kind": "A",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              1,
+              1,
+              "options"
+            ],
+            "index": 12,
+            "item": {
+              "kind": "N",
+              "rhs": {
+                "key": "-6",
+                "value": "-6"
+              }
+            }
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              1,
+              1,
+              "customSize"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              1,
+              1,
+              "tableKey"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              1,
+              1,
+              "tableKeyColumn"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              1,
+              1,
+              "tableLabelColumn"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              1,
+              1,
+              "formulaKeyOptions"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              1,
+              1,
+              "formulaLabelOptions"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              1,
+              0,
+              "customSize"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              0,
+              1,
+              "customSize"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              0,
+              1,
+              "tableKey"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              0,
+              1,
+              "tableKeyColumn"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              0,
+              1,
+              "tableLabelColumn"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              0,
+              1,
+              "formulaKeyOptions"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              0,
+              1,
+              "formulaLabelOptions"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              2,
+              "contents",
+              0,
+              0,
+              "customSize"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              1,
+              "customSize"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "contents",
+              0,
+              "customSize"
+            ]
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "colSpan"
+            ],
+            "rhs": 1
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "rowSpan"
+            ],
+            "rhs": 1
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "cssClass"
+            ],
+            "rhs": ""
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "role"
+            ],
+            "rhs": 0
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "editRole"
+            ],
+            "rhs": 0
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "permission"
+            ],
+            "rhs": 0
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "tooltip"
+            ],
+            "rhs": ""
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "visibilityFormula"
+            ],
+            "rhs": ""
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "editableFormula"
+            ],
+            "rhs": ""
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "escapeHTML"
+            ],
+            "rhs": false
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "flow"
+            ],
+            "rhs": "vertical"
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "align"
+            ],
+            "rhs": "center"
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "verticalAlign"
+            ],
+            "rhs": "top"
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "collapsible"
+            ],
+            "rhs": false
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "defaultCollapsed"
+            ],
+            "rhs": true
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "title"
+            ],
+            "rhs": ""
+          },
+          {
+            "kind": "N",
+            "path": [
+              "body",
+              "titleStyle"
+            ],
+            "rhs": "default"
+          }
         ]
       ],
       "templateHistoryRedo": []
@@ -5532,9 +5307,9 @@
     "exportSource": null,
     "coreVersion": "13.351",
     "systemId": "custom-system-builder",
-    "systemVersion": "5.2.0",
+    "systemVersion": "5.2.1",
     "createdTime": 1774304632245,
-    "modifiedTime": 1774464565941,
+    "modifiedTime": 1774721119423,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "ownership": {
