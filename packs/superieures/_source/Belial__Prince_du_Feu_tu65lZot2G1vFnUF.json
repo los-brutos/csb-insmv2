@@ -438,7 +438,7 @@
     "hidden": [],
     "modifiers": [],
     "props": {
-      "recupPP": "<p>Toutes les 24 heures : +1 PP</p><p>Par heure à une température supérieure à 120°C(*) : +1PP</p><p>Par heure de repos à une température supérieure à 50C(*) : +1PP</p><p>Par heure de repos à une température supérieure à 120°C(*) : +2PP</p><p>Par cinq humains carbonisés : +1PP</p><p><em>(*) Le personnage devra être immunisé contre le feu pour bénéficier de cette récupération.</em></p>",
+      "recupPP": "<p>Toutes les 24 heures : +1 PP</p><p>Par heure à une température supérieure à 120°C(*) : +1PP</p><p>Par heure de repos à une température supérieure à 50C°(*) : +1PP</p><p>Par heure de repos à une température supérieure à 120°C(*) : +2PP</p><p>Par cinq humains carbonisés : +1PP</p><p><em>(*) Le personnage devra être immunisé contre le feu pour bénéficier de cette récupération.</em></p>",
       "intervention": "1",
       "type": "666",
       "grade1Desc": "<p>Ce grade accorde à son possesseur le pouvoir de connaître (au degré près) à tout moment la température ambiante.</p>",
@@ -467,7 +467,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.1",
     "createdTime": 1774104574423,
-    "modifiedTime": 1774735197846,
+    "modifiedTime": 1774823511092,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "tu65lZot2G1vFnUF",
