@@ -2,14 +2,14 @@
   "id": "csb-insmv2",
   "title": "CSB - In Nomine Satanis / Magna Veritas (INS/MV)",
   "description": "Implémentation du jeu INS/MV avec Custom System Builder",
-  "version": "13.2.1",
+  "version": "13.3.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
   },
   "url": "https://github.com/los-brutos/csb-insmv2/",
-  "manifest": "https://raw.githubusercontent.com/los-brutos/csb-insmv2/refs/tags/13.2.1/module.json",
-  "download": "https://github.com/los-brutos/csb-insmv2/releases/download/13.2.1/csb-insmv2.zip",
+  "manifest": "https://raw.githubusercontent.com/los-brutos/csb-insmv2/refs/tags/13.3.0/module.json",
+  "download": "https://github.com/los-brutos/csb-insmv2/releases/download/13.3.0/csb-insmv2.zip",
   "readme": "https://github.com/los-brutos/csb-insmv2/blob/main/README.md",
   "bugs": "https://github.com/los-brutos/csb-insmv2/issues",
   "authors": [
