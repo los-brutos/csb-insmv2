@@ -442,7 +442,7 @@
       "intervention": "4",
       "type": "111",
       "grade1Desc": "<p>Tout Ange de ce grade aura une protection invisible, permanente et intrinsèque de 1 point.</p>",
-      "grade2Desc": "<p>Cette distinction accorde à son possesseur le pouvoir de reconnaître la valeur (approximative) d'un objet, simplement en l'examinant.</p>",
+      "grade2Desc": "<p>Tout Ange de ce grade peut utiliser un pouvoir défensif qu'ii possède sur une autre personne qu'il voit et ce sans dépense de PP supplémentaire.</p>",
       "grade3Desc": "<p>Tout Ange de ce grade peut utiliser un pouvoir défensif qu'il possède sur toutes les personnes dans un rayon de 2 mètres et ce, pour le double des PP normaux.</p>",
       "grade1Titre": "Serviteur de l'armure divine",
       "grade2Titre": "Ami des opprimés",
@@ -467,7 +467,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.1",
     "createdTime": 1774721219089,
-    "modifiedTime": 1774955603561,
+    "modifiedTime": 1775385274218,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "ss8NpKtuFOgmYXke",
