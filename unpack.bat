@@ -32,6 +32,9 @@ echo.
 echo /// unpack compendium "macros"
 call fvtt package unpack -c macros
 echo.
+echo /// unpack compendium "journaux"
+call fvtt package unpack -c journaux
+echo.
 echo * ********************************** *
 echo * all compendiums have been unpacked *
 echo * ********************************** *

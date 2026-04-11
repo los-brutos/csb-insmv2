@@ -1,6 +1,6 @@
 {
   "name": "43 - Locaux",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Locaux : Château",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.RNu0bZn4gqHEedmV",
       "_id": "RAHbMUuULfhXRvco",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Locaux : Ecole",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.hStd5MFJ994QbIkB",
       "_id": "Kj7Cj0ePZ7ftngBT",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Locaux : Immeuble",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.osR2lrW0JwKgpc6t",
       "_id": "B9QEXSZNJEDGkcCN",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Locaux : Armée du Salut",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.tJOGZPR5aO6rnsbr",
       "_id": "QBDRF2OoujFCJ1LS",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Locaux : Laboratoire",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.ZNNYbdCS3l5wlUQb",
       "_id": "lkQgcNaro5sN7kkq",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Locaux : Eglise/mosquée",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.ZNdtr85mY4X04gD2",
       "_id": "o1goN7tpxktiRcs2",
       "description": "",

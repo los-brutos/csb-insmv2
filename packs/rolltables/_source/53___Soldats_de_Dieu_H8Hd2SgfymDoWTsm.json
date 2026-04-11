@@ -1,6 +1,6 @@
 {
   "name": "53 - Soldats de Dieu",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Soldat de Dieu, Petite section d'enquête (5)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.qCEPkz7gOzVt3cLs",
       "_id": "ySasJxXvrCw3HYs9",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Soldat de Dieu, Section d'enquête (10)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.d2E5DssyuoB3qpwf",
       "_id": "SjMaR89otHWxQrnb",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Soldat de Dieu, Section de combat multirôle (10)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.a92KNp6pjaxjUkNQ",
       "_id": "rQgIoxXVxzNpjAPS",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Soldat de Dieu, 2 section de combat multirôle (2x10)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.yikPPSvHIjxy1Y1f",
       "_id": "IWWpttRAAhEyXhzY",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Soldat de Dieu, Section lourde (5)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.xEoiuMHK0q2vfl6y",
       "_id": "yfOcalmUXNr6CDQv",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Soldat de Dieu, Section lourde  + Véhicule de combat (5)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.aSl4qKXNYQ5qgDp4",
       "_id": "uCSA6Bpj8cc28zdA",
       "description": "",

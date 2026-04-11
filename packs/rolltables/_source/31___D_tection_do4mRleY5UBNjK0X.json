@@ -1,6 +1,6 @@
 {
   "name": "31 - Détection",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Détection du mal",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.b3bXe2woznhQ71lP",
       "_id": "SAnd0uYLKm3Ccgmj",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Psychométrie",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.Wh8x67tOVQokLXxn",
       "_id": "c7bgk2v6tBgsZlDM",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Détection de l'invisible",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.nwveV0qdQD5CU517",
       "_id": "D0YGqCCh3pZzUhlv",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Détection du futur proche",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.YwspuzT2IP0Y49VK",
       "_id": "yBM9EDV6Sv2CMxVb",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Détection du danger",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.HHvuP2wud3EVDaqv",
       "_id": "19Dp5ieC4RoRl8mR",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Détection du mensonge",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.ESRTVEkmguFNaQT5",
       "_id": "hCu6tfd4F5CfNd1H",
       "description": "",

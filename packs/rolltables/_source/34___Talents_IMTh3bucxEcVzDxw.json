@@ -1,6 +1,6 @@
 {
   "name": "34 - Talents",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Talent physique (à préciser)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.Vi7AbJdxAsR5H2nM",
       "_id": "BuwtNkNbjudnFPll",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Talent artistique (à préciser)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.g1TPg2jVAJPrXslR",
       "_id": "IdKXGCjbopK3cNoA",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Talent scientifique (à préciser)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.zzVmVO2UNl41DmdC",
       "_id": "bulHeJf9Sd4UtceA",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Talent de communication (à préciser)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.0pYQ7sBQK1ddznp1",
       "_id": "DaNFqNttpbuR3wrE",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Talent de ruse (à préciser)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.k5eQXlBLyUnI7AOx",
       "_id": "ENY0dgxqqIqqfpha",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Talent de combat (à préciser)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.uc4BYUT5F22m8feg",
       "_id": "7PV5TcRAqgfs5RbO",
       "description": "",

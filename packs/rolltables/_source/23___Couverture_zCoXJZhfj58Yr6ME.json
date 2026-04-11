@@ -1,6 +1,6 @@
 {
   "name": "23 - Couverture",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Couverture : Président d'organisation humanitaire",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.44C9kzzEeNikrnnC",
       "_id": "9SaQf8C96y5Oe6j9",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Couverture : Médecin",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.7eL7v9D8r2rBeccb",
       "_id": "cLPv1edf1lsPYH3u",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Couverture : Prêtre",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.OMrxQbtd5quSMsuM",
       "_id": "6HkudqPTjvQFF0kW",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Couverture : Vedette de cinéma",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.j8RIsOWiplWz07Re",
       "_id": "2Utc2w3fuKHxrcYk",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Couverture : Scientifique",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.GmvoAwXPU8PnZM6c",
       "_id": "1NzDnsi4oIp2LFl7",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Couverture : Sportif professionnel",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.NQmpnc3FrZCPbW7E",
       "_id": "YeFxHDJfLcuP5EXR",
       "description": "",

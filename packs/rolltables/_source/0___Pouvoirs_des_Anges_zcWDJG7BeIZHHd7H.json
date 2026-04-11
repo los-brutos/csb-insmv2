@@ -1,6 +1,6 @@
 {
   "name": "0 - Pouvoirs des Anges",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "1 - Pouvoirs offensifs",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.i0bRvnc1Li7lCx2s",
       "_id": "1lVkuEDixZTMiM1d",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "2 - Pouvoirs défensifs",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.2f5eNZuru1T7ZgfS",
       "_id": "W7qgbvbR5RQDhH81",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "3 - Pouvoirs utilitaires",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.e4zZuA7YgUGPkXmr",
       "_id": "tUkTLtnUyZciDgn2",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "4 - Objets",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.bimTPRnPFtk4L21E",
       "_id": "ko38mRjRvh9aJV49",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "5 - Serviteurs",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.O1YEfuhTa1tXli8X",
       "_id": "zomw5BVXPPyQL2HV",
       "description": "",

@@ -1,6 +1,6 @@
 {
   "name": "16 - Contact",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Charme (contact)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.AtXPv6HDyQZNjFYC",
       "_id": "HrwVNX3iT9hbdaOv",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Faiblesse (contact)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.9woHddI99EmQZyaJ",
       "_id": "nLV2uJuwTUirPF7t",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Paralysie (contact)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.Px0dR77yG3WOlIU2",
       "_id": "Ftdm6z9FtAtKPCXr",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Peur (contact)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.gFY0SNH3MD7Smfbf",
       "_id": "aBVKsFx20XSmIhYV",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Sommeil (contact)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.QxhvYMUZbUcbDLyG",
       "_id": "b7MqmIOvI15OtHk1",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Calme",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.4WR2UBoTxafeU3jX",
       "_id": "g0D7uuFDcB5pYBSV",
       "description": "",

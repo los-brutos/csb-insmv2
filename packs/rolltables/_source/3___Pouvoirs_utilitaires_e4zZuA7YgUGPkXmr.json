@@ -1,6 +1,6 @@
 {
   "name": "3 - Pouvoirs utilitaires",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "31 - Détection",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.do4mRleY5UBNjK0X",
       "_id": "MUzZ0IE6XNSMN5ns",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "32 - Communication",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.bsgkj3uWAyrE7SV4",
       "_id": "akQDhiLEpUdZBr3Z",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "33 - Déplacement",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.LrdwdYb83BfYtyoD",
       "_id": "GDufaEVzYDJj73tj",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "34 - Talents",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.IMTh3bucxEcVzDxw",
       "_id": "0DmlGbppbpWLQsy4",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "35 - Augmentation permanente des caractéristiques",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.fO8MTzVSWPC59QgD",
       "_id": "kYcRens68RxLv8Ns",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "36 - Contrôles",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.ofKeS4rQdOOAO8Fc",
       "_id": "6sXKN8CtOu67FrWZ",
       "description": "",

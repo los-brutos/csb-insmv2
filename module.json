@@ -2,14 +2,14 @@
   "id": "csb-insmv2",
   "title": "CSB - In Nomine Satanis / Magna Veritas (INS/MV)",
   "description": "Implémentation du jeu INS/MV avec Custom System Builder",
-  "version": "13.3.1",
+  "version": "13.4.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
   },
   "url": "https://github.com/los-brutos/csb-insmv2/",
-  "manifest": "https://raw.githubusercontent.com/los-brutos/csb-insmv2/refs/tags/13.3.1/module.json",
-  "download": "https://github.com/los-brutos/csb-insmv2/releases/download/13.3.1/csb-insmv2.zip",
+  "manifest": "https://raw.githubusercontent.com/los-brutos/csb-insmv2/refs/tags/13.4.0/module.json",
+  "download": "https://github.com/los-brutos/csb-insmv2/releases/download/13.4.0/csb-insmv2.zip",
   "readme": "https://github.com/los-brutos/csb-insmv2/blob/main/README.md",
   "bugs": "https://github.com/los-brutos/csb-insmv2/issues",
   "authors": [
@@ -32,7 +32,7 @@
       "path": "packs/actor-templates",
       "type": "Actor",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       },
       "system": "custom-system-builder",
@@ -44,7 +44,19 @@
       "path": "packs/item-templates",
       "type": "Item",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "custom-system-builder",
+      "flags": {}
+    },
+    {
+      "name": "pnj",
+      "label": "INS/MV - PNJ",
+      "path": "packs/pnj",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       },
       "system": "custom-system-builder",
@@ -67,6 +79,18 @@
       "label": "INS/MV Supérieur.es",
       "path": "packs/superieures",
       "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "custom-system-builder",
+      "flags": {}
+    },
+    {
+      "name": "journaux",
+      "label": "INS/MV Journaux",
+      "path": "packs/journaux",
+      "type": "JournalEntry",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"

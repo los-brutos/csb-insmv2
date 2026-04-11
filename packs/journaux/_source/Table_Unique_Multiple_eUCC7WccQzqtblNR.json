@@ -1,0 +1,63 @@
+{
+  "folder": null,
+  "name": "Table Unique Multiple",
+  "_id": "eUCC7WccQzqtblNR",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Table Unique Multiple",
+      "type": "image",
+      "_id": "6gb2FxXBwTrA5cvA",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {
+        "caption": "Table Unique Multiple"
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/csb-insmv2/assets/tum.webp",
+      "category": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!eUCC7WccQzqtblNR.6gb2FxXBwTrA5cvA"
+    }
+  ],
+  "categories": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.1",
+    "createdTime": 1775943225479,
+    "modifiedTime": 1775943225479,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!journal!eUCC7WccQzqtblNR"
+}

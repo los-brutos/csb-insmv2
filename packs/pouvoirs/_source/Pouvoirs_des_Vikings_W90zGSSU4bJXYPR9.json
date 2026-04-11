@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": null,
+  "name": "Pouvoirs des Vikings",
+  "color": null,
+  "sorting": "a",
+  "_id": "W90zGSSU4bJXYPR9",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.1",
+    "createdTime": 1775939463144,
+    "modifiedTime": 1775940485133,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "_key": "!folders!W90zGSSU4bJXYPR9"
+}

@@ -1,6 +1,6 @@
 {
   "name": "55 - Groupes alliés non affiliés",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Scouts / Syndicalistes (4d6)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.xZRwL4ruViqEGBUj",
       "_id": "AZ5yE5r2Z8zrm3Sz",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Service d'ordre (3d6)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.c80BicHfjw5RZ1ct",
       "_id": "m9StZH6H0GMec7VG",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Skinheads / Loubards (3d6)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.nPP8rx8KvbmPKqwK",
       "_id": "PrIhfNCwcMMy0OOe",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Milices urbaines ou rurales / Milices islamiques (3d6)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.jFHbksylXJEitVKc",
       "_id": "5ni51X4XJoaF8ray",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Police municipale (2d6)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.pvdAaU44RDnP3nYv",
       "_id": "0iWVlXjecFfJTZUx",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Royalistes / Intégristes (2d6)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.Xmu72ZZuMzKFmJq4",
       "_id": "aLgkdB5acXYhNqPu",
       "description": "",

@@ -1,6 +1,6 @@
 {
   "name": "21 - Défense permanente",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Armure corporelle",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.cZE4MecUr3Igruf9",
       "_id": "xeWcfCZr4EkIqlGv",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Immunité aux maladies et poisons",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.oT7PY5IbX9Q1UHP1",
       "_id": "wUEkHFDytCrjaoZ9",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Immunité au feu",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.BbgOXdXaxCtdY9MN",
       "_id": "dvVaLgA0q9z37tfm",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Immunité au froid",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.bX6UrEMfS9uSXwrw",
       "_id": "WxE8nRkmYl352D2o",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Pas de nourriture",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.MhdDFnTHfjDUjiWh",
       "_id": "sn2shW4gSpweanAy",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Anaérobiose",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.DVFs24i6m0UE0v4w",
       "_id": "fDgYTEP6Dy2AcpZD",
       "description": "",

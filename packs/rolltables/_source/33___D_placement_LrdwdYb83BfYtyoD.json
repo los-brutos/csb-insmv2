@@ -1,6 +1,6 @@
 {
   "name": "33 - Déplacement",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Téléportation",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.QKhIagQVrDG7fmFX",
       "_id": "BOh2lEjbtVOGj1w4",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Vol",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.gwOAXstXibeUNQdN",
       "_id": "HjxXWR3xC93bbU2j",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Bond",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.0PoWA3R0O86xJa5i",
       "_id": "cnpOBYAGnFyTIXF6",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Vitesse",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.hPsu86dWyOkByOzi",
       "_id": "QxJZpentEcKbRmIG",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Passe-muraille",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.XNi5662nRxpYI7b1",
       "_id": "O33gcAcATzPwOSoM",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Déplacement temporel",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.xENKNmeDb25oGCGY",
       "_id": "XHWZfh8y8xoGydFJ",
       "description": "",

@@ -3,7 +3,7 @@
   "name": "Novalis, Archange des Fleurs",
   "type": "equippableItem",
   "_id": "T3cE9DzRI9B1Q9N2",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "system": {
     "body": {
       "contents": [
@@ -32,6 +32,10 @@
             {
               "key": "666",
               "value": "Prince-Démon"
+            },
+            {
+              "key": "934",
+              "value": "Dieu viking"
             }
           ]
         },
@@ -452,7 +456,7 @@
     "unique": true,
     "uniqueId": "T3cE9DzRI9B1Q9N2",
     "template": "MUpzyH01zeG1VRQf",
-    "templateSystemUniqueVersion": 1161272126
+    "templateSystemUniqueVersion": 2191838480
   },
   "effects": [],
   "flags": {
@@ -468,7 +472,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.1",
     "createdTime": 1774104574423,
-    "modifiedTime": 1774955603561,
+    "modifiedTime": 1775939470380,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "ownership": {

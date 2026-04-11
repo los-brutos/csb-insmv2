@@ -1,6 +1,6 @@
 {
   "name": "15 - Bénédiction",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Guérison de maladies (bénédiction)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.oLIsq6bIug3JtLKe",
       "_id": "YGgN6oOlPYEtz0aK",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Fertilité (bénédiction)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.MN7y9nPK1stRcrZP",
       "_id": "YRRDR9NDnW2ES7jU",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Rajeunissement (bénédiction)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.1WmW87xFF2UA22wU",
       "_id": "Kg6yF25z7ucIINjH",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Guérison de folies (bénédiction)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.b71LHdWM1zCGJXI4",
       "_id": "ahNWZSLyIeruweAk",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Guérison de phobies (bénédiction)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.NzePfRCB1AtSs5bu",
       "_id": "jIvKdrVO0VzUniZJ",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Beauté (bénédiction)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.YhKrHentgWlLNZ8R",
       "_id": "etRe82AnHcxEY2tn",
       "description": "",

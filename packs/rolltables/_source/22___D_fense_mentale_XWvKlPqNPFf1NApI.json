@@ -1,6 +1,6 @@
 {
   "name": "22 - Défense mentale",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Volonté supranormale",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.wwnDSLLBNbtf1MKv",
       "_id": "EhAb80PkaCtgYlAb",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Non-détection",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.iYheSHwUZp9cn1sd",
       "_id": "Wg8RPy1NkZYhsJnY",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Multiplication",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.ARyFJ32QZfZfjnRm",
       "_id": "tS7A72TdkbV7aVk9",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Absorption",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.dyHGUffSQ0efWSjy",
       "_id": "Y40cbrqD8akEA6hR",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Immunité (à préciser)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.auvhAZu7yYAHu35a",
       "_id": "mkyn5D9wXUEj5K9O",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Régénération",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.IgdmrcLm1mhkGSoz",
       "_id": "oudD9LyI973kt9Te",
       "description": "",

@@ -1,6 +1,6 @@
 {
   "name": "42 - Objets magiques",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Objet magique : Croix / Croissant",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.XcI81CtnhfbC0lKq",
       "_id": "2hzWK8hDsqvVHmiZ",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Objet magique : Bracelet",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.ZCmO6IYZrQmiKkYF",
       "_id": "THw7SIDWprTzlPfY",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Objet magique : Rameau / Lampe",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.d4GMQJtuLB7Lhtpe",
       "_id": "0e9r3Htqoj0Hyy21",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Objet magique : Perle",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.KpQWNm9tramzO22t",
       "_id": "zJqRXLFB2bfdHFfc",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Objet magique : Diadème",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.HxSrh7MYoCg4badN",
       "_id": "KVIVZf3gZcbO4LMf",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Objet magique : Anneau",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.lLxOrYTpNSdQktd4",
       "_id": "TBwi8PMHOzHuAQTR",
       "description": "",

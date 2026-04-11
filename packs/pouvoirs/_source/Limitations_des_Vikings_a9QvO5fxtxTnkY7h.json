@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": null,
+  "name": "Limitations des Vikings",
+  "color": null,
+  "sorting": "a",
+  "_id": "a9QvO5fxtxTnkY7h",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.1",
+    "createdTime": 1775940485155,
+    "modifiedTime": 1775940485155,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "_key": "!folders!a9QvO5fxtxTnkY7h"
+}

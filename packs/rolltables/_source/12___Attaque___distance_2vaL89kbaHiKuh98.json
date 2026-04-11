@@ -1,7 +1,7 @@
 {
   "name": "12 - Attaque à distance",
   "_id": "2vaL89kbaHiKuh98",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -12,7 +12,7 @@
         1
       ],
       "name": "Eclair",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.JF4dJ7RpybEJnneW",
       "_id": "1km0bBWZM8GMxoFV",
       "description": "",
@@ -37,7 +37,7 @@
         2
       ],
       "name": "Lumière",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.GjozKSp1d192Kuj1",
       "_id": "qYMXYBfXlWhf4yR0",
       "description": "",
@@ -62,7 +62,7 @@
         3
       ],
       "name": "Son",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.e76kqjGl9n7F8wlO",
       "_id": "V77vRESw0N2rag3U",
       "description": "",
@@ -87,7 +87,7 @@
         4
       ],
       "name": "Eau bénite",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.25gadF30ZKqRBNvo",
       "_id": "gQmLuPNgDbssJx3j",
       "description": "",
@@ -112,7 +112,7 @@
         5
       ],
       "name": "Eau du robinet",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.imMwrVEsYV0Pm75C",
       "_id": "6FusaU7wdBwaa9NS",
       "description": "",
@@ -137,7 +137,7 @@
         6
       ],
       "name": "Télékinésie",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.309z1OByYeZh2YhC",
       "_id": "btY8WUgysAIq41zM",
       "description": "",

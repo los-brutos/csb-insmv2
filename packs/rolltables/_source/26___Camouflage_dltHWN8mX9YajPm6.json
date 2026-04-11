@@ -1,6 +1,6 @@
 {
   "name": "26 - Camouflage",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Invisibilité",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.NaEqq5gVbZqNXMRZ",
       "_id": "mxtDQtlyq0xNi1sc",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Caméléon",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.fImH1AAIIc5VwFEc",
       "_id": "LMqen5MkCPPfBUcx",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Forme gazeuse (défense)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.7dfeJb0sUsoB7HZ1",
       "_id": "Le4TTMmjWBbCkDAr",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Electricité",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.3zlMKpVfgK1Poxa1",
       "_id": "c7qnDEddnJat9Z5Y",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Réduction",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.RCBPklITZhu1UMAs",
       "_id": "7wfBSnoXXMqvmzyB",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Polymorphe",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.ySkCF6FbHYdCPXWD",
       "_id": "0I7rz0NjgQ62OYgP",
       "description": "",

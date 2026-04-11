@@ -1,6 +1,6 @@
 {
   "name": "45 - Associations",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Association : Greenpeace/OLP",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.dtLS9ykkz0mnuVw8",
       "_id": "OVkb0fboVGYes6bz",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Association : Médecins du monde",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.5SL9NhOZ19vn9RYP",
       "_id": "JmnLLeJUuL3zvG5W",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Association : ONU",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.tSgBFakKGXQciotz",
       "_id": "WyBH86sohD2BEcDz",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Association : UNICEF",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.jYX6T6GAjpdBgngF",
       "_id": "Vmqw6pUAEsC7a0hN",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Association : Ligue contre le cancer/Croissant rouge",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.TAUSJEmtr89xfUnz",
       "_id": "cr74YqOQ378pMFqo",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Association : Scouts/FIS",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.zVHgcmrRij8CliHr",
       "_id": "gxobUorhp0owFbOH",
       "description": "",

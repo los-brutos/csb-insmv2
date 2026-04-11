@@ -1,6 +1,6 @@
 {
   "name": "24 - Augmentation temporaire des caractéristiques",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Force (temporaire)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.98GfJLU6BuYW9ssI",
       "_id": "7vVJahbiADHATcb0",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Précision (temporaire)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.mmCfNHwFUviXVHDP",
       "_id": "JFVDRhzk04HG6yXS",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Agilité (temporaire)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.2w93mKuwrmSpICva",
       "_id": "4cE7RJmXNjqeEYx2",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Apparence (temporaire)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.HtdDwrJ3qifiXK4W",
       "_id": "YavT8fUdXDluoD3h",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Volonté (temporaire)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.XTAkAcvJ1AVKeV5O",
       "_id": "ZBMsiK3hZOCsnAyq",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Perception (temporaire)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.JVr7f7L5XHqkrlOJ",
       "_id": "IZvREo6SuvDBnWgw",
       "description": "",

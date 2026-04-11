@@ -1,7 +1,7 @@
 {
   "name": "1 - Pouvoirs offensifs",
   "_id": "i0bRvnc1Li7lCx2s",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -12,7 +12,7 @@
         1
       ],
       "name": "11 - Attaque corporelle",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.2CiA3GgFRp1URpwq",
       "_id": "l1HNTRqZ0dLz9UeF",
       "description": "",
@@ -37,7 +37,7 @@
         2
       ],
       "name": "12 - Attaque à distance",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.2vaL89kbaHiKuh98",
       "_id": "6L890jgABbbc62jf",
       "description": "",
@@ -62,7 +62,7 @@
         3
       ],
       "name": "13 - Attaque non létale",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.u2pmrzbZsKY34Ika",
       "_id": "HpvDlNFqmQlipMRJ",
       "description": "",
@@ -87,7 +87,7 @@
         4
       ],
       "name": "14 - Absorption",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.KRCC0wcQaIAes0kC",
       "_id": "ElxtEB68FBybWM6S",
       "description": "",
@@ -112,7 +112,7 @@
         5
       ],
       "name": "15 - Bénédiction",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.gMtTrasVKxbkHy3w",
       "_id": "4BGY3Mh2ZQdCM0Ol",
       "description": "",
@@ -137,7 +137,7 @@
         6
       ],
       "name": "16 - Contact",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.Zc9Jxqs633RatrOY",
       "_id": "oJs5kS6sv8n7D6Fp",
       "description": "",

@@ -1,6 +1,6 @@
 {
   "name": "46 - Etablissements",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Etablissement : Restaurant",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.2dR6Ymrywt1fRr1P",
       "_id": "IiXiehMFVMHM8eMY",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Etablissement : Hôtel",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.za4QjYHsPWPCkXPf",
       "_id": "KojxqYp1BDcpDUAW",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Etablissement : Université",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.EVXzd3tYKeMk3CMj",
       "_id": "h0Uox1G9LRTcGRSt",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Etablissement : Casino / Camp d'entrainement",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.hl7zO2TObQm6B0pi",
       "_id": "uy2AUc3k9EL1tRKE",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Etablissement : Station balnéaire",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.J7BDDzULAKxOfPnr",
       "_id": "wbAX8J7KCC884ibT",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Etablissement : Boutique de luxe",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.tqvM9FoJAMSc4TgF",
       "_id": "Uqfw3QU010jodSWM",
       "description": "",

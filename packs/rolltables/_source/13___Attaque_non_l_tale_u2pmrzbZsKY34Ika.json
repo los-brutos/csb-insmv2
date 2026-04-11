@@ -1,6 +1,6 @@
 {
   "name": "13 - Attaque non létale",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Charme (attaque)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.CqLx4cVojX0mGNpw",
       "_id": "7RSkVfxiivZqjv6b",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Sommeil (attaque)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.R6OTmxq97fFUUmYn",
       "_id": "w3fSZC9jfssnQQLW",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Faiblesse (attaque)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.Mqwc51JZ8DM6hNzb",
       "_id": "o7E2Z3wPSP2o2Skl",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Peur (attaque)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.SMDNrgwxoyyUoC16",
       "_id": "CZDMrdBIgBh85Hkk",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Paralysie (attaque)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.ibKmOEnV2Exc3QBr",
       "_id": "1r906lEk2pE2d4qF",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Coma",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.FYZBkk8YcspUtjCw",
       "_id": "25sxQFSEvd6JiOvs",
       "description": "",

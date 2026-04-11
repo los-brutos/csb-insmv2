@@ -1,6 +1,6 @@
 {
   "name": "2 - Pouvoirs défensifs",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "21 - Défense permanente",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.T2HFZ96FVeNBMTBA",
       "_id": "0UmQJKAVeynsvKSt",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "22 - Défense mentale",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.XWvKlPqNPFf1NApI",
       "_id": "tkI8xIMkEK0dZzqn",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "23 - Couverture",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.zCoXJZhfj58Yr6ME",
       "_id": "ZLd7uvgo56XePuM3",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "24 - Augmentation temporaire des caractéristiques",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.bCmfhDaKmKdzkLFl",
       "_id": "9KPOMmFs9wCxVKDk",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "25 - Défense",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.T6cw5pL3D23yMR00",
       "_id": "nQOjIccQEOhUjxlS",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "26 - Camouflage",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.dltHWN8mX9YajPm6",
       "_id": "CWiYMUwilq4UPBQZ",
       "description": "",

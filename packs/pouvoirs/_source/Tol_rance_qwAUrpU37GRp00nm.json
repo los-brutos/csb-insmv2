@@ -1,7 +1,7 @@
 {
   "name": "Tolérance",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/angel.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir coûte 5PP et, s'il est réussit et que la victime (un individu visible à moins de 50 mètres) ne résiste pas (avec un jet de Volonté), elle devient tout d'un coup beaucoup plus tolérante, oublie son éventuelle mentalité intégriste. Elle devient, en un mot, beaucoup plus \"gentille\". Ce pouvoir dure RU heures et ne fonctionne en aucun cas sur une créature magique (Démon, Ange, etc.).</p>",
       "cout": "5PP",
       "portee": "50m",
-      "numero": "DXXX",
+      "numero": "AMXXX",
       "reussite": "AP",
       "defense": "VO",
       "niveau": " +0",
@@ -843,7 +843,7 @@
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.1",
     "createdTime": 1774908603831,
-    "modifiedTime": 1774955597649,
+    "modifiedTime": 1775940486232,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "qwAUrpU37GRp00nm",

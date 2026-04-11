@@ -1,6 +1,6 @@
 {
   "name": "14 - Absorption",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Volonté (absorption)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.a2AUkk0QDF57cOoy",
       "_id": "6F1ZWBBVr7T8XBc6",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Force (absorption)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.thqexRFOCyipVRX5",
       "_id": "uhIj6TynZDxowrQV",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Amour (absorption)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.cFUDbOAAMQ5aZlqD",
       "_id": "aXwyBOEcAwPTnH7S",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Gentillesse (absorption)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.9cfAN0V2qpliuF1c",
       "_id": "xz3MDIl7lI8tEhc7",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Colère (absorption)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.JaMaYIcMZuUjuect",
       "_id": "hMl3IhCJNRSVIvqI",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Mal (absorption)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.kVq06udzDvce3oWo",
       "_id": "2ouBiRJRU00ZJb8T",
       "description": "",

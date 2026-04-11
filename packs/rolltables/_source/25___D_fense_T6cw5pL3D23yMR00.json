@@ -1,6 +1,6 @@
 {
   "name": "25 - Défense",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Champ de force",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.ybgwtwgw51GHX9aQ",
       "_id": "bWXn04zBy1Vr1L9p",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Glace (défense)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.aYGus07lKFNJF08W",
       "_id": "fZYEDknHjVonkS8i",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Courant d'air",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.JGlNqYaAAaTUX06I",
       "_id": "tVstPcG7I5CEsmie",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Champ magnétique",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.GLprjzPI5uRt3iSA",
       "_id": "zpW7vCLDJGkhyXkD",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Rebond (à préciser)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.epV5zUmUlkvKB8bi",
       "_id": "Xtp6Us01Rvv1lJpd",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Conversion",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.FnTrz0DXqJZyOBeP",
       "_id": "IcBXMUuElq6DsHEG",
       "description": "",

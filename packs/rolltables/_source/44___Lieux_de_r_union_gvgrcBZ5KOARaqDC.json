@@ -1,6 +1,6 @@
 {
   "name": "44 - Lieux de réunion",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Lieu de réunion : Monument historique",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.07OOleJR8tSM68Nl",
       "_id": "zJyco4ocgziptczz",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Lieu de réunion : Ambassade",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.AgpnwY48wVcSoSgH",
       "_id": "IQJ59Kd8VRu5ZqZa",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Lieu de réunion : Parc",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.ehWR5nz2vt5aAbHI",
       "_id": "VlJTvQy96sLGtmkJ",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Lieu de réunion : Musée",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.BJeBmPWuSYWT5HRJ",
       "_id": "bCzpayS4Dda7EYj7",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Lieu de réunion : Petite maison",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.eAmYtm11BlI8w63S",
       "_id": "BExzHyIXmXmFERYM",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Lieu de réunion : Salle de concert",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.S8Cut7a5QDS9a6cn",
       "_id": "GJX0Igt5JDZhbKZT",
       "description": "",

@@ -1,6 +1,6 @@
 {
   "name": "51 - Serviteurs de Dieu",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Serviteur de Dieu, Investigateur (1)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.gZlJyBohXtBYPllo",
       "_id": "nK2jAKLh4OahxcNr",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Serviteur de Dieu, Escouade anti-morts-vivants (5)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.IZdfl4KNAX4ZUOs2",
       "_id": "byo03YCesZ20Fxx0",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Serviteur de Dieu, 2 escouades anti-morts-vivants (2x5)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.PiMHOR2vvuQZRywV",
       "_id": "JaREOEReAvd0PjIC",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Serviteur de Dieu, Escouade anti-familiers (5)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.FhkHlXoiS6YuOkdF",
       "_id": "6MTPZND7WiDkhLe2",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Serviteur de Dieu, 2 escouades anti-familiers (2x5)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.HvtDasSd7smdFsBr",
       "_id": "xnMIhg0CHmVK9n52",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Serviteur de Dieu, Escouade d'élite multirôle (5)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.zBugb76X8XVgrwzn",
       "_id": "WpnhA1QjaHyrzuQP",
       "description": "",

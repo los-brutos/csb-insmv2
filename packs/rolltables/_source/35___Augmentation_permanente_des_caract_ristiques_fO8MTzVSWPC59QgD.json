@@ -1,6 +1,6 @@
 {
   "name": "35 - Augmentation permanente des caractéristiques",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Force (permanent)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.biFCr1kTtQ1kuOhG",
       "_id": "03tYdpm5UsnWgXFY",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Précision (permanent)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.KXnGAb9AoBWgvwRc",
       "_id": "uYsEJhGGCksYjLbv",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Volonté (permanent)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.8FVFZNcmWCR7RYLp",
       "_id": "nMFSQBnMFOfQiY5R",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Apparence (permanent)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.012fsn5ZdDcgWTKB",
       "_id": "2ffa3dXJ2z9CbQzI",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Agilité (permanent)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.oz8uBfjwufI6wvD5",
       "_id": "2RylR0J7GhxnNj7Q",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Perception (permanent)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.ZBCJmjQpYdByhG59",
       "_id": "9LpvhUOTVd2nKGT2",
       "description": "",

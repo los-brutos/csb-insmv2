@@ -1,6 +1,6 @@
 {
   "name": "36 - Contrôles",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Contrôle des humains",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.x9farxrm11rFY3NH",
       "_id": "wt1HHlzOq7ZfyskS",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Contrôle des reptiles et des batraciens",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.Xjd1qYFwCczwkqe3",
       "_id": "UU6Y72E7BzlyNRXe",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Contrôle des oiseaux",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.zJpwC9Alxk4yZb95",
       "_id": "H8XOKuOdNaLXePQe",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Contrôle des insectes et des arachnides",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.WDCo21JQR3k1dEX1",
       "_id": "VcTYTMPAl3UtzRz6",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Contrôle des mammifères et des marsupiaux",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.L3OSCgqQTFIUVYKt",
       "_id": "GA7JRrH7qGHZVRKD",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Contrôle des poissons et des mollusques",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.uxLQYS2TcvdExGe1",
       "_id": "xsGloHMu7FYdAaDD",
       "description": "",

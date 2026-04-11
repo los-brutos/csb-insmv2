@@ -1,6 +1,6 @@
 {
   "name": "41 - Armes",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Arme de contact bénite (Arme magique)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.HZkurDF92dGpSBdY",
       "_id": "PUCt9vkGL73SEVvX",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Arme à distance bénite (Arme magique)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.sCxIMSXzZFcZ9IWP",
       "_id": "5ufL3nhfnOBONBjR",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Arme de contact intelligente (Arme magique)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.Ca7pHzLEJSlmjBVu",
       "_id": "dLqdPFoOYPQndib6",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Arme à distance intelligente (Arme magique)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.zdL7XX1JOWbKv7Et",
       "_id": "QnQqM41KyWIPIaZD",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Arme de contact mobile (Arme magique)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.0NEWRNSLrn72gzta",
       "_id": "GkaJC98G8hC8Xp42",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Arme à distance  mobile (Arme magique)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.omsevvqktovzaFOS",
       "_id": "bCS0HPCJDF2nz0Ad",
       "description": "",

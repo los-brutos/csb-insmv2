@@ -33,6 +33,9 @@ echo.
 echo /// pack compendium "macros"
 call fvtt package pack macros
 echo.
+echo /// pack compendium "journaux"
+call fvtt package pack journaux
+echo.
 echo * ********************************* *
 echo * all compendiums have been created *
 echo * ********************************* *

@@ -1,7 +1,7 @@
 {
   "name": "Talent physique (à préciser)",
   "type": "equippableItem",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "system": {
     "body": {
       "contents": [
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.1",
     "createdTime": 1773703706748,
-    "modifiedTime": 1774955597649,
+    "modifiedTime": 1775940486232,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "RSnQ2fgRfm7ea8O9",

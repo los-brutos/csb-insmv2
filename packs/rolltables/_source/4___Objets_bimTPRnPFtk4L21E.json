@@ -1,6 +1,6 @@
 {
   "name": "4 - Objets",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "41 - Armes",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.CM52ULAzNHFoDBNB",
       "_id": "w4NzrGiWzYRBENIx",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "42 - Objets magiques",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.0YZyiYrSzcodeldW",
       "_id": "RCpiu51BVe0wQ1Gj",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "43 - Locaux",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.Ykqqx7k1gByyG42r",
       "_id": "Yje9TiWq2F2wh0Bc",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "44 - Lieux de réunion",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.gvgrcBZ5KOARaqDC",
       "_id": "MndlJUY44LYOm5vp",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "45 - Associations",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.pABNhlEmfxxGKZ9u",
       "_id": "8NcDKEWmyv1aFFsB",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "46 - Etablissements",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.H3VRtVWkFQctcYA8",
       "_id": "RoNPcRP3WCzyy1OG",
       "description": "",

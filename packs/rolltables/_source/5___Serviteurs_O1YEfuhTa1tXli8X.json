@@ -1,6 +1,6 @@
 {
   "name": "5 - Serviteurs",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "51 - Serviteurs de Dieu",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.q1HHgzNN8lbpbAnr",
       "_id": "xWZWmo3K9OkccltB",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "52 - Serviteurs de Dieu spécialisé",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.r4iujZCQELOz2EB7",
       "_id": "PV5oLMjKfSesKF16",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "53 - Soldats de Dieu",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.H8Hd2SgfymDoWTsm",
       "_id": "1sFnig00S4nPDC6T",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "54 - Soldats de Dieu spécialisés",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.jyPRVTrDoykfpqgC",
       "_id": "btH1WmquyU7RnXrD",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "55 - Groupes alliés non affiliés",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.RE9849Fk73g6nMRU",
       "_id": "vstqzm0ihvC48qgE",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "56 - Relations",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "RollTable.uUMxv7nBHw3WiQlL",
       "_id": "A6RclVpBEJVyVm2b",
       "description": "",

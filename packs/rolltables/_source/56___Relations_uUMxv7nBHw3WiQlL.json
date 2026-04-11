@@ -1,6 +1,6 @@
 {
   "name": "56 - Relations",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Relations : commissaire de police (1)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.lAbtWOR2k8sW85dI",
       "_id": "9lyCCKQsVCUnUBqK",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Relations : procureur (1)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.9cVeCArvS2YY7buT",
       "_id": "2gfJz7mgphzc6AQs",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Relations : politicien(1)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.vcBNaF1L1d9tOq1D",
       "_id": "tsn6S8RnfF51rliY",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Relations : journaliste (1)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.981JdtFkCEpNmp1x",
       "_id": "hCHBwY0P745iRk96",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Relations : militaire (1)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.45IYInSvn6va2QAk",
       "_id": "FPmg1Cdjn6RMHZr7",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Relations : présentateur TV (1)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.skdbGby1fsG4wcuy",
       "_id": "fPmJ66jb9GzSRsiY",
       "description": "",

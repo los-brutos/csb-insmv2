@@ -1,6 +1,6 @@
 {
   "name": "54 - Soldats de Dieu spécialisés",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Soldat de Dieu spécialisé, Informaticien (1)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.rkFeZMRGwfJv9ZSX",
       "_id": "NZa6aRPocVZiyHhc",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Soldat de Dieu spécialisé, Avocat (1)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.9QJbwHu8x0oa2Isl",
       "_id": "hCiKJMTHbGTgVCmR",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Soldat de Dieu spécialisé, Comptable (1)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.NDKPtA6NcbPZ4pJ3",
       "_id": "jlu7sQuqdKv5u9V0",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Soldat de Dieu spécialisé, Commissaire de police (1)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.eOGKvLQ4OuXncc9o",
       "_id": "qvAurbbx6sbfOzuw",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Soldat de Dieu spécialisé, Militaire (1)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.JaQiRZRnN2HCfaYC",
       "_id": "ihp1saw6WzxfkC65",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Soldat de Dieu spécialisé, Journaliste (1)",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.MUfVAHv2PWXWtEjA",
       "_id": "VvSzIK5fJJq9KEzk",
       "description": "",

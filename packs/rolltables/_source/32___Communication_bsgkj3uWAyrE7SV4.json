@@ -1,6 +1,6 @@
 {
   "name": "32 - Communication",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/angel.svg",
   "description": "",
   "results": [
     {
@@ -11,7 +11,7 @@
         1
       ],
       "name": "Télépathie",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.rVkgi7IrkORv5UTe",
       "_id": "yMEWux4vYZ7jA4To",
       "description": "",
@@ -36,7 +36,7 @@
         2
       ],
       "name": "Dialogue mental",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.ZfmeQvSYKYH0eEOi",
       "_id": "iGXaDIHquiEvohzw",
       "description": "",
@@ -61,7 +61,7 @@
         3
       ],
       "name": "Lire les pensées",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.FFQ0zcqhq4ZWbsoW",
       "_id": "RyJqYbDh4y55FKh8",
       "description": "",
@@ -86,7 +86,7 @@
         4
       ],
       "name": "Lire les sentiments",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.4DNTV4jyGdS1iu7I",
       "_id": "CKmAwZVfGpEqohox",
       "description": "",
@@ -111,7 +111,7 @@
         5
       ],
       "name": "Rêve",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.v0HCYcT009vBk065",
       "_id": "Yj8lmmdHafzDOllX",
       "description": "",
@@ -136,7 +136,7 @@
         6
       ],
       "name": "Projection de pouvoir",
-      "img": "icons/svg/daze.svg",
+      "img": "icons/svg/angel.svg",
       "documentUuid": "Item.RvTseoCGrHUrlZkv",
       "_id": "9gThMROkS4UO4UHF",
       "description": "",
