@@ -1,0 +1,180 @@
+{
+  "folder": "QdWbEnK1o5iebK9v",
+  "name": "2 - Pouvoirs défensifs",
+  "img": "icons/svg/frozen.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Armure",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.PgIv229gC9FhDDvX",
+      "_id": "lN5fRMaMWDo5M3ou",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RLqwesUGDFjJs9HZ.lN5fRMaMWDo5M3ou"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Guérison",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.Qucu5jh4OtPLYCkZ",
+      "_id": "TfLkZMsTYtopmDVT",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RLqwesUGDFjJs9HZ.TfLkZMsTYtopmDVT"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Régénération",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.T3jjTNT2m3G6e8eP",
+      "_id": "MFwjXoaQBngBQgg3",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RLqwesUGDFjJs9HZ.MFwjXoaQBngBQgg3"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Esquive acrobatique",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.H5wr94uzWunOJJyP",
+      "_id": "gr8XtEm9RRRuu2qo",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RLqwesUGDFjJs9HZ.gr8XtEm9RRRuu2qo"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Invisibilité",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.RyqC5ytDyzREWXg7",
+      "_id": "X24GD5drYkX5IFql",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RLqwesUGDFjJs9HZ.X24GD5drYkX5IFql"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Fanatisme",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.tU28fW4DuIGsdIhQ",
+      "_id": "kZl2hnQePMTCpjNQ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RLqwesUGDFjJs9HZ.kZl2hnQePMTCpjNQ"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.1",
+    "createdTime": 1775997373297,
+    "modifiedTime": 1775997373297,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "RLqwesUGDFjJs9HZ",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!RLqwesUGDFjJs9HZ"
+}

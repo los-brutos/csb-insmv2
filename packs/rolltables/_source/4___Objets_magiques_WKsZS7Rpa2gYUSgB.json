@@ -1,0 +1,180 @@
+{
+  "folder": "QdWbEnK1o5iebK9v",
+  "name": "4 - Objets magiques",
+  "img": "icons/svg/frozen.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Arme de contact",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.uAO1cKctVuPnj5yv",
+      "_id": "glNzdFvwheknDcSt",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WKsZS7Rpa2gYUSgB.glNzdFvwheknDcSt"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Arme de jet",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.77cTqGxsJSt9SWpY",
+      "_id": "JhxysqfUswZ7iW7d",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WKsZS7Rpa2gYUSgB.JhxysqfUswZ7iW7d"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Arme à distance",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.WcJ6rWVyLCfsyn2n",
+      "_id": "vlIbbujzmQso2KLh",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WKsZS7Rpa2gYUSgB.vlIbbujzmQso2KLh"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Armure magique",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.9p66X7OtIsSoeUMp",
+      "_id": "Aheuo4YJOsp8tbnS",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WKsZS7Rpa2gYUSgB.Aheuo4YJOsp8tbnS"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Bouclier",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.ZRm1OVxirqUtRWnO",
+      "_id": "ruHBFDTuTX2KF10s",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WKsZS7Rpa2gYUSgB.ruHBFDTuTX2KF10s"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Autre objet",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.uQp5HbaN4AbLjvyy",
+      "_id": "yQe3U2dnAFLnJEU9",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WKsZS7Rpa2gYUSgB.yQe3U2dnAFLnJEU9"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.1",
+    "createdTime": 1775997373297,
+    "modifiedTime": 1775997373297,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "WKsZS7Rpa2gYUSgB",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!WKsZS7Rpa2gYUSgB"
+}

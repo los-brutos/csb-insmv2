@@ -1,0 +1,180 @@
+{
+  "folder": "QdWbEnK1o5iebK9v",
+  "name": "1 - Pouvoirs offensifs",
+  "img": "icons/svg/frozen.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Mur d'acier",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.gI6i554w3zvlHF7i",
+      "_id": "5LeyyUIZCFuG2dbx",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VObtmgp7dVbPCjB3.5LeyyUIZCFuG2dbx"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Signe du marteau",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.gR3Eju13Yfp6IoZi",
+      "_id": "xnsEqoWyVWm3axzQ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VObtmgp7dVbPCjB3.xnsEqoWyVWm3axzQ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Destruction",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.oEg8iWlky0TtLWXn",
+      "_id": "U05GJpTj4B3XdFjR",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VObtmgp7dVbPCjB3.U05GJpTj4B3XdFjR"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Visée ultime",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.qS7jkosOf3s6q8I6",
+      "_id": "m1u1DclROdI9KSmO",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VObtmgp7dVbPCjB3.m1u1DclROdI9KSmO"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Poing d'acier",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.SynNSAyrASnxKnP2",
+      "_id": "Ho21Gg84LttlcG8w",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VObtmgp7dVbPCjB3.Ho21Gg84LttlcG8w"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Coup de bouclier",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.kqVsCSz6JoxWToLt",
+      "_id": "5TPEFtdPW6iM4uFF",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VObtmgp7dVbPCjB3.5TPEFtdPW6iM4uFF"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.1",
+    "createdTime": 1775997373297,
+    "modifiedTime": 1775997373297,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "VObtmgp7dVbPCjB3",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!VObtmgp7dVbPCjB3"
+}

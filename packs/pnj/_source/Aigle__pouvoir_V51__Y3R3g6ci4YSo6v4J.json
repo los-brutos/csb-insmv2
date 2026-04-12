@@ -2398,12 +2398,11 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.1",
     "createdTime": 1775941982347,
-    "modifiedTime": 1775941982347,
+    "modifiedTime": 1775997343286,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "ownership": {
-    "default": 0,
-    "y5tCExgMFbYMpCHk": 3
+    "default": 0
   },
   "sort": 0,
   "_key": "!actors!Y3R3g6ci4YSo6v4J"

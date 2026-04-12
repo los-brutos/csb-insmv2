@@ -1,0 +1,180 @@
+{
+  "name": "4 - Envoûtements",
+  "img": "icons/svg/ice-aura.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Statuette de maladie",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.8NTgjtPDGx4oayPD",
+      "_id": "RP9sqSWe6SlI8V7K",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JhX3JH5dCJ5ggqWz.RP9sqSWe6SlI8V7K"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Statuette de malheur",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.aKXSUKjD9mEWozXA",
+      "_id": "ppGdMMmbGwXh9MvW",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JhX3JH5dCJ5ggqWz.ppGdMMmbGwXh9MvW"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Statuette de handicap",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.X0kEEECY3S8bLUV8",
+      "_id": "xItEuWpyTssHXGgZ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JhX3JH5dCJ5ggqWz.xItEuWpyTssHXGgZ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Envoyé de Baron Samedi",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.zp8Qg6aWVV2BMIii",
+      "_id": "nwZbPBWataF0WKKp",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JhX3JH5dCJ5ggqWz.nwZbPBWataF0WKKp"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Discorporation",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.OuSBx5WpxwaJVtfT",
+      "_id": "zGPA0fYSNHjxS82q",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JhX3JH5dCJ5ggqWz.zGPA0fYSNHjxS82q"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Manger l'âme",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.IxCgpaVMB2QeIrz9",
+      "_id": "Tmtq2c8RjjPaMP5Z",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JhX3JH5dCJ5ggqWz.Tmtq2c8RjjPaMP5Z"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "c58cbfQUHP1mVJcN",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.1",
+    "createdTime": 1775997373297,
+    "modifiedTime": 1775997373297,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "JhX3JH5dCJ5ggqWz",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!JhX3JH5dCJ5ggqWz"
+}

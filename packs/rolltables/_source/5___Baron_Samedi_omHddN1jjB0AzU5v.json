@@ -1,0 +1,180 @@
+{
+  "name": "5 - Baron Samedi",
+  "img": "icons/svg/ice-aura.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Parler avec les morts",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.SFPqQf2Iyj67Fawo",
+      "_id": "D8KKzHjX4b7X4DyX",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!omHddN1jjB0AzU5v.D8KKzHjX4b7X4DyX"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Réveiller les morts",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.ZaQW6d5aFr920JOV",
+      "_id": "U2GXvg5dz87IBuwa",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!omHddN1jjB0AzU5v.U2GXvg5dz87IBuwa"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Sommeil de Baron Samedi",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.A65dlc92DxtMIA2q",
+      "_id": "LtYf6whTJcfjRZtK",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!omHddN1jjB0AzU5v.LtYf6whTJcfjRZtK"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Enfants de Baron Samedi",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.XPUKMtrQgOFJ5EaT",
+      "_id": "0Pp2YWpa59xAnqu3",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!omHddN1jjB0AzU5v.0Pp2YWpa59xAnqu3"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Rêve prémonitoire",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.efUoU2rwWl4O1uUE",
+      "_id": "qClmcIEu4sOsyvxU",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!omHddN1jjB0AzU5v.qClmcIEu4sOsyvxU"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Vision de mort",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.8XWNCfMdvt0uBAte",
+      "_id": "mBNm50OeMQbBGNZI",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!omHddN1jjB0AzU5v.mBNm50OeMQbBGNZI"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "c58cbfQUHP1mVJcN",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.1",
+    "createdTime": 1775997373297,
+    "modifiedTime": 1775997373297,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "omHddN1jjB0AzU5v",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!omHddN1jjB0AzU5v"
+}

@@ -1,0 +1,180 @@
+{
+  "name": "934 - Limitations des Vikings",
+  "img": "icons/svg/frozen.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Folie meurtrière",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.SIfC22TRc0JvEofx",
+      "_id": "RLSv9VlaEi8cQgb8",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QBFiElUpgHM0yxoO.RLSv9VlaEi8cQgb8"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Mauvais caractère",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.MAzzsLnM34XLo4rq",
+      "_id": "30k6a4CRqNnz56Rj",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QBFiElUpgHM0yxoO.30k6a4CRqNnz56Rj"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Alcoolique",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.mdt8HB1lRhyLxefE",
+      "_id": "77XkxISuJrGQ2PgD",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QBFiElUpgHM0yxoO.77XkxISuJrGQ2PgD"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Agressif",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.ZjsK2QeE9PD0uMNF",
+      "_id": "Ret1K3kra39ZqplL",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QBFiElUpgHM0yxoO.Ret1K3kra39ZqplL"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Intolérance",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.DQYyN9SQtNiuKz9f",
+      "_id": "9pPrGZNpp4yQuRbz",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QBFiElUpgHM0yxoO.9pPrGZNpp4yQuRbz"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Restriction vestimentaire",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.7NKZTMCzYmF7CDhv",
+      "_id": "PiGH46UbpCbrbE2K",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QBFiElUpgHM0yxoO.PiGH46UbpCbrbE2K"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.1",
+    "createdTime": 1775997373297,
+    "modifiedTime": 1775997373297,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "QBFiElUpgHM0yxoO",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!QBFiElUpgHM0yxoO"
+}

@@ -1,0 +1,180 @@
+{
+  "name": "571 - Pouvoirs des Tontons Macoutes",
+  "img": "icons/svg/ice-aura.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Guerrier sanglant d'Ogoua Badagris",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.WrCB8qdr6VWBChuE",
+      "_id": "coaugusbxSZTenCs",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oKfiyYG2givNHCvf.coaugusbxSZTenCs"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Appel de la jungle",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.yo7gyL7pFQ5yrAyV",
+      "_id": "FaDGiEQlQXydWHus",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oKfiyYG2givNHCvf.FaDGiEQlQXydWHus"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Arme de mort",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.KLqHRrLpkDvZEerq",
+      "_id": "FYfofaMr6aEKKwsF",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oKfiyYG2givNHCvf.FYfofaMr6aEKKwsF"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Protection de Papa Legba",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.LTMIZXeyrbTDMNoh",
+      "_id": "j1muB6tVvna4z0uD",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oKfiyYG2givNHCvf.j1muB6tVvna4z0uD"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Crochet de Damballa Ouedo",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.zE72tOdpdawXANMm",
+      "_id": "plVQTtcwR2F1xjLb",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oKfiyYG2givNHCvf.plVQTtcwR2F1xjLb"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Enfants de Baron Samedi",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.XPUKMtrQgOFJ5EaT",
+      "_id": "kBcGdmnGv6BWM7pc",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oKfiyYG2givNHCvf.kBcGdmnGv6BWM7pc"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.1",
+    "createdTime": 1775997373297,
+    "modifiedTime": 1775997373297,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "oKfiyYG2givNHCvf",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!oKfiyYG2givNHCvf"
+}

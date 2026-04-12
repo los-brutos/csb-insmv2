@@ -2375,13 +2375,12 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.1",
     "createdTime": 1775941982347,
-    "modifiedTime": 1775941982347,
+    "modifiedTime": 1775997343286,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "mX7FHAxRHONQBtzs",
   "ownership": {
-    "default": 0,
-    "y5tCExgMFbYMpCHk": 3
+    "default": 0
   },
   "sort": 0,
   "_key": "!actors!mX7FHAxRHONQBtzs"

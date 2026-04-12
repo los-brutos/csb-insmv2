@@ -56,9 +56,10 @@ A noter que cette opération d'import sera à faire à chaque mise à jour du mo
 
 ## Comment utiliser ce module ?
 
-* Crée des humains, des Anges ou des Démons et même des Vikings ou des pratiquants du Vaudou gràce à la fiche d'acteur INS/MV
+* Crée des humains, des Anges ou des Démons et même des Vikings ou des pratiquants du Vaudou grâce à la fiche d'acteur INS/MV
 * Ajoute des **Talents** et leur niveau dans la liste des Talents
-* Glisse des **Pouvoirs** sur la fiche (l'onglet est caché tant qu'il n'y a pas de pouvoirs : glisser le premier pouvoir et il apparaitra)
+* Tire les pouvoirs sur les **Tables aléatoires** pour chaque type de personnages (Ange, Démon, Viking, Pratiquant du Vaudou)
+* Glisse des **Pouvoirs** sur la fiche (l'onglet est caché tant qu'il n'y a pas de pouvoirs : glisse le premier pouvoir et il apparaitra)
 * Glisse un.e **supérieur.e** sur la fiche d'un Ange, d'un Démon ou d'un Viking
 * Lance les dés sans fiche grâce à la macro spécialement créée à cet effet
 

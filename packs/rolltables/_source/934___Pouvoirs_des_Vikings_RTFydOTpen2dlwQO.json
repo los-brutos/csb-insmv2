@@ -1,0 +1,155 @@
+{
+  "name": "934 - Pouvoirs des Vikings",
+  "img": "icons/svg/frozen.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "1 - Pouvoirs offensifs",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "RollTable.VObtmgp7dVbPCjB3",
+      "_id": "JEVGn4xVRJWCQWoD",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RTFydOTpen2dlwQO.JEVGn4xVRJWCQWoD"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "2 - Pouvoirs défensifs",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "RollTable.RLqwesUGDFjJs9HZ",
+      "_id": "hpPw22tBkdWZtmlJ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RTFydOTpen2dlwQO.hpPw22tBkdWZtmlJ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "3 - Pouvoirs utilitaires",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "RollTable.EFYRwTdO9ZDbDQy4",
+      "_id": "AVlrpqh9xFpHzn3y",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RTFydOTpen2dlwQO.AVlrpqh9xFpHzn3y"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "4 - Objets magiques",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "RollTable.WKsZS7Rpa2gYUSgB",
+      "_id": "urxS8f9h8cosR1qt",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RTFydOTpen2dlwQO.urxS8f9h8cosR1qt"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "5 - Serviteurs",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "RollTable.hSnuoqGiCmhK9714",
+      "_id": "YV6FAadvv0KY7njf",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RTFydOTpen2dlwQO.YV6FAadvv0KY7njf"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.1",
+    "createdTime": 1775997373297,
+    "modifiedTime": 1775997373297,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d5",
+  "_id": "RTFydOTpen2dlwQO",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!RTFydOTpen2dlwQO"
+}

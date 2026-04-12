@@ -1,0 +1,180 @@
+{
+  "folder": "QdWbEnK1o5iebK9v",
+  "name": "5 - Serviteurs",
+  "img": "icons/svg/frozen.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Serviteur : Aigle (x1)",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.dcVU71EqqsK11iRt",
+      "_id": "41Z5NDRSD0ayT1jh",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hSnuoqGiCmhK9714.41Z5NDRSD0ayT1jh"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Serviteur : Loup (x1)",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.3GayhbtG7DhND8yT",
+      "_id": "TQwOqF0107uWhrKg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hSnuoqGiCmhK9714.TQwOqF0107uWhrKg"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Serviteur : Guerriers (x1d6)",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.3cNIarqTgMWd9USC",
+      "_id": "iDETVebV4FGNMM0Y",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hSnuoqGiCmhK9714.iDETVebV4FGNMM0Y"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Serviteur : Guerriers (x2d6)",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.CI40ydocWFPuXg1f",
+      "_id": "DYdPXeZ6rFnr4tVI",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hSnuoqGiCmhK9714.DYdPXeZ6rFnr4tVI"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Serviteur : Berserker (x1)",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.lZEm7rdew1u5ZEM3",
+      "_id": "JsjvtMRiSXK6yvXL",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hSnuoqGiCmhK9714.JsjvtMRiSXK6yvXL"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Serviteur : Valkyrie (x1)",
+      "img": "icons/svg/frozen.svg",
+      "documentUuid": "Item.JGFBVRMas213An9A",
+      "_id": "MHmFNvTJGqTrVFWG",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hSnuoqGiCmhK9714.MHmFNvTJGqTrVFWG"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.1",
+    "createdTime": 1775997373297,
+    "modifiedTime": 1775997373297,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "",
+  "_id": "hSnuoqGiCmhK9714",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!hSnuoqGiCmhK9714"
+}

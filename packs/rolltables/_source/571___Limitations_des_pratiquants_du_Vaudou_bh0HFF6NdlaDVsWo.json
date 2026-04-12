@@ -1,0 +1,180 @@
+{
+  "name": "571 - Limitations des pratiquants du Vaudou",
+  "img": "icons/svg/ice-aura.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Mauvaise oeil",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.QbEje7XCzRh4dh01",
+      "_id": "VvwW7TwktVr2MpzF",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bh0HFF6NdlaDVsWo.VvwW7TwktVr2MpzF"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Malédiction lunaire",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.KkmMi6yOht06VwhD",
+      "_id": "PhzhM33JVFy1pVBv",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bh0HFF6NdlaDVsWo.PhzhM33JVFy1pVBv"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Phobie",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.vDR9ldZsFc13AfPL",
+      "_id": "bDog7jPXfUaPShLj",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bh0HFF6NdlaDVsWo.bDog7jPXfUaPShLj"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Folie",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.9nCxG3fn8IXSKqW7",
+      "_id": "fmzAvHhNyhfoZKaN",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bh0HFF6NdlaDVsWo.fmzAvHhNyhfoZKaN"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Cicatrice ou tatouage",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.8yUPVGhmAOPPbCtG",
+      "_id": "52OMEIYgUtPRCXBo",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bh0HFF6NdlaDVsWo.52OMEIYgUtPRCXBo"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Fils de (Loa au choix)",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.9iqFpXit83iOhTLE",
+      "_id": "tgaDTviwaW4ok9RZ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bh0HFF6NdlaDVsWo.tgaDTviwaW4ok9RZ"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.1",
+    "createdTime": 1775997373297,
+    "modifiedTime": 1775997373297,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "bh0HFF6NdlaDVsWo",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!bh0HFF6NdlaDVsWo"
+}

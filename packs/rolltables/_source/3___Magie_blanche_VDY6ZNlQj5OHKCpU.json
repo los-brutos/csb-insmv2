@@ -1,0 +1,180 @@
+{
+  "name": "3 - Magie blanche",
+  "img": "icons/svg/ice-aura.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Guérison des maladies",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.mWBFaITt4PSQspqT",
+      "_id": "GpT53pNx1cNvd3Fe",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VDY6ZNlQj5OHKCpU.GpT53pNx1cNvd3Fe"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Guérison des blessures",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.6z138JjMzUdNf4en",
+      "_id": "g9kQuOSLidkZHERv",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VDY6ZNlQj5OHKCpU.g9kQuOSLidkZHERv"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Bénédiction de Maîtresse Alizée",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.oazTpT2gCTdmRw0J",
+      "_id": "3gGtn2BoMC1bUClb",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VDY6ZNlQj5OHKCpU.3gGtn2BoMC1bUClb"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Protection de Papa Legba",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.LTMIZXeyrbTDMNoh",
+      "_id": "XnBmwJgBjsSxf1HN",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VDY6ZNlQj5OHKCpU.XnBmwJgBjsSxf1HN"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Désenvoûtement",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.7lIEQ3hMPvcejSZM",
+      "_id": "2MyUohff04hB6vtw",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VDY6ZNlQj5OHKCpU.2MyUohff04hB6vtw"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Bénédiction nuptiale",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.Ew1lv2Cmx962Fy9h",
+      "_id": "mF5vWCMbBWDougMi",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VDY6ZNlQj5OHKCpU.mF5vWCMbBWDougMi"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "c58cbfQUHP1mVJcN",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.1",
+    "createdTime": 1775997373297,
+    "modifiedTime": 1775997373297,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "VDY6ZNlQj5OHKCpU",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!VDY6ZNlQj5OHKCpU"
+}

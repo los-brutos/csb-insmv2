@@ -1,0 +1,180 @@
+{
+  "name": "2 - Grigris et objets sacrés",
+  "img": "icons/svg/ice-aura.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Amulette de protection",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.GWzjOB9i0OV8bT6g",
+      "_id": "Br7kxi8EvXPHHcBH",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!du6GBu1keC7XYSSY.Br7kxi8EvXPHHcBH"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Philtre d'amour",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.nq8S8cA4eMQs97us",
+      "_id": "TYGJtn2XxokRvqZp",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!du6GBu1keC7XYSSY.TYGJtn2XxokRvqZp"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Poudre de vie",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.fUULYEwMPg1Hqzep",
+      "_id": "5kswjp0ihnrn6L65",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!du6GBu1keC7XYSSY.5kswjp0ihnrn6L65"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Fétiche sacré",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.EyNdWa9yDS9wuzL2",
+      "_id": "igBEdSca1hFzJXAo",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!du6GBu1keC7XYSSY.igBEdSca1hFzJXAo"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Pardon de Frère Jésus",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.99ivPVwzV1DwmMp7",
+      "_id": "R2NkREtUdvpOYodj",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!du6GBu1keC7XYSSY.R2NkREtUdvpOYodj"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Message du grand maître",
+      "img": "icons/svg/ice-aura.svg",
+      "documentUuid": "Item.pLdsCComt4ILG0AN",
+      "_id": "chznHfiSnN8722vX",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "custom-system-builder",
+        "systemVersion": "5.2.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!du6GBu1keC7XYSSY.chznHfiSnN8722vX"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "c58cbfQUHP1mVJcN",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.1",
+    "createdTime": 1775997373297,
+    "modifiedTime": 1775997373297,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "formula": "1d6",
+  "_id": "du6GBu1keC7XYSSY",
+  "ownership": {
+    "default": 0,
+    "y5tCExgMFbYMpCHk": 3
+  },
+  "sort": 0,
+  "_key": "!tables!du6GBu1keC7XYSSY"
+}
