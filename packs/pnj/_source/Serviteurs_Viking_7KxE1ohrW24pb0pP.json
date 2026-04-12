@@ -1,0 +1,23 @@
+{
+  "type": "Actor",
+  "folder": null,
+  "name": "Serviteurs Viking",
+  "color": null,
+  "sorting": "a",
+  "_id": "7KxE1ohrW24pb0pP",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.2.1",
+    "createdTime": 1775941982298,
+    "modifiedTime": 1775941982298,
+    "lastModifiedBy": "y5tCExgMFbYMpCHk"
+  },
+  "_key": "!folders!7KxE1ohrW24pb0pP"
+}
